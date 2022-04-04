@@ -1,0 +1,2741 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1586; Version 2009; 64bit' Language: 'en' Physical Memory: 32696 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Dor/Desktop/Changes/Sherlock
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64846
+Successfully changed project path to: C:/Users/Dor/Desktop/Changes/Sherlock
+C:/Users/Dor/Desktop/Changes/Sherlock
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 109.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Dor/Desktop/Changes/Sherlock/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5700 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     8151 MB
+    Driver:   30.0.14029.5006
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002038 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 88.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.038 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2437 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.0 MB.
+System memory in use after: 113.2 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2882.
+Total: 2.243000 ms (FindLiveObjects: 0.229200 ms CreateObjectMapping: 0.078500 ms MarkObjects: 1.873700 ms  DeleteObjects: 0.060800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_160.asset
+  artifactKey: Guid(4c479a5948b9c804fb60062e507ee0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_160.asset using Guid(4c479a5948b9c804fb60062e507ee0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c47a005fff969152de0d320a7ee9421b') in 0.081863 seconds
+  Import took 0.086291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_142.asset
+  artifactKey: Guid(2f3d01fdd8034ee48abf72d095cc5d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_142.asset using Guid(2f3d01fdd8034ee48abf72d095cc5d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796d2bc2dd1fb7400b949603303876d3') in 0.010680 seconds
+  Import took 0.014415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_132.asset
+  artifactKey: Guid(8890edcca84a76e4898f685e84c9529f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_132.asset using Guid(8890edcca84a76e4898f685e84c9529f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374525996a21bf2a9f5cbbe7b23d32e8') in 0.008795 seconds
+  Import took 0.013321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_120.asset
+  artifactKey: Guid(ba56daee4390f7640af8d78f05465b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_120.asset using Guid(ba56daee4390f7640af8d78f05465b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1876403a5347a73150f59ac675d13791') in 0.007394 seconds
+  Import took 0.011358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_96.asset
+  artifactKey: Guid(9dfd0f3e2a6426d49aced8a8777f5349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_96.asset using Guid(9dfd0f3e2a6426d49aced8a8777f5349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96079b21fff15371ca14fad399893d57') in 0.008402 seconds
+  Import took 0.012182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_165.asset
+  artifactKey: Guid(d44738202cf02cf47aa303f7675bd468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_165.asset using Guid(d44738202cf02cf47aa303f7675bd468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef38261779d1a09bb74f24c1a5a88a0') in 0.007816 seconds
+  Import took 0.012371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_154.asset
+  artifactKey: Guid(f52f96d2d65fd304e91d6a37fba3d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_154.asset using Guid(f52f96d2d65fd304e91d6a37fba3d824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa21011097dce6b0ccecd641da3bb7ea') in 0.007793 seconds
+  Import took 0.012205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_93.asset
+  artifactKey: Guid(2f66447023f1eaa48b3d15a6ec98c85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_93.asset using Guid(2f66447023f1eaa48b3d15a6ec98c85b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb90769afa0f153f3d7c4ab8fa97094f') in 0.007660 seconds
+  Import took 0.011532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_88.asset
+  artifactKey: Guid(492dcc883b5dbd54ab01a7a1113b0ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_88.asset using Guid(492dcc883b5dbd54ab01a7a1113b0ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9501e2e8906aa7ac1b6a11f7974340') in 0.009150 seconds
+  Import took 0.013024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_166.asset
+  artifactKey: Guid(83b4db6a1a2346f4f95efae67619b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_166.asset using Guid(83b4db6a1a2346f4f95efae67619b1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c0946a88115c532093f01b4ed58d87') in 0.009270 seconds
+  Import took 0.013036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_124.asset
+  artifactKey: Guid(01eef4fbfbc32034099d609da000d0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_124.asset using Guid(01eef4fbfbc32034099d609da000d0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8352235dae75326bf17a21810c092ecb') in 0.008464 seconds
+  Import took 0.012399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_85.asset
+  artifactKey: Guid(c419ddcf67d39084e935d3d9f6492d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_85.asset using Guid(c419ddcf67d39084e935d3d9f6492d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d5a4998d2dc60c450e6b34a7071553') in 0.008241 seconds
+  Import took 0.012081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_144.asset
+  artifactKey: Guid(72fb7dac45fa02f4b9bd1972c370aee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_144.asset using Guid(72fb7dac45fa02f4b9bd1972c370aee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9e6bbcddd7c7e3d8ba3709e47cc9a7') in 0.007603 seconds
+  Import took 0.011593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_145.asset
+  artifactKey: Guid(bc48cb54ceeb9174c837c41ac6fd95d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_145.asset using Guid(bc48cb54ceeb9174c837c41ac6fd95d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae097ea9a94d42a9d56c47f9021c02dd') in 0.007576 seconds
+  Import took 0.011393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_107.asset
+  artifactKey: Guid(287d9d6d3b5fdfe4d87b040fe73be5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_107.asset using Guid(287d9d6d3b5fdfe4d87b040fe73be5c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7901a8addb34850704219035743cf92b') in 0.007941 seconds
+  Import took 0.011765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_112.asset
+  artifactKey: Guid(7b95dd8860b74ed4487f6660cf1655a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_112.asset using Guid(7b95dd8860b74ed4487f6660cf1655a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506677d37a3100c8cf5f79e9b41ef82a') in 0.009948 seconds
+  Import took 0.015353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_162.asset
+  artifactKey: Guid(6b868d763e0d824489ec164c4861670f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_162.asset using Guid(6b868d763e0d824489ec164c4861670f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd998ce6d9ea9db5275ba2d05522af3') in 0.007960 seconds
+  Import took 0.011913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_108.asset
+  artifactKey: Guid(16d174658549a304caa2c36f1da2d9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_108.asset using Guid(16d174658549a304caa2c36f1da2d9f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc5e593bcc6bf63d9d4080bee57f235') in 0.007508 seconds
+  Import took 0.011413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_139.asset
+  artifactKey: Guid(367fe03150679a2458f240bdaaee383e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_139.asset using Guid(367fe03150679a2458f240bdaaee383e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196026f5f9edff2dc774d6fa9bd236c3') in 0.007430 seconds
+  Import took 0.011472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_141.asset
+  artifactKey: Guid(126b09913e3668b4ebb71be004045a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_141.asset using Guid(126b09913e3668b4ebb71be004045a28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a7ca50d680a9205deff544a52856ca') in 0.007748 seconds
+  Import took 0.011925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_100.asset
+  artifactKey: Guid(a8b1a463ec3aa2f4083c0d822c334d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_100.asset using Guid(a8b1a463ec3aa2f4083c0d822c334d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c466dc82ce5e6c839a4ba88b64d32c48') in 0.007507 seconds
+  Import took 0.011218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_135.asset
+  artifactKey: Guid(4e8a1dae83e7b2e4d9ef43cf668e7feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_135.asset using Guid(4e8a1dae83e7b2e4d9ef43cf668e7feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13e5cea63337481b9313459fd138600') in 0.007425 seconds
+  Import took 0.011239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_151.asset
+  artifactKey: Guid(667a062b192de2f4c948dfcb88c6d15c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_151.asset using Guid(667a062b192de2f4c948dfcb88c6d15c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74aa5a0be6173b65d375990e70af2297') in 0.007673 seconds
+  Import took 0.011568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_98.asset
+  artifactKey: Guid(211c1e81e7bf1ea46af572993f451c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_98.asset using Guid(211c1e81e7bf1ea46af572993f451c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c8387fee9d4b6a6c09f03f9889b890') in 0.007478 seconds
+  Import took 0.011827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_171.asset
+  artifactKey: Guid(0c318db1b3ef0a9458a763684f621294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_171.asset using Guid(0c318db1b3ef0a9458a763684f621294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2965dd3886d024572fe334b1d7bc55c3') in 0.007864 seconds
+  Import took 0.011565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_119.asset
+  artifactKey: Guid(ca7557d8a1a8af94180c8b7aadb8314b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_119.asset using Guid(ca7557d8a1a8af94180c8b7aadb8314b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a9bc39fa0f1cb2f24e9932f326cf1ad') in 0.007565 seconds
+  Import took 0.011564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_90.asset
+  artifactKey: Guid(11ec20a6d0238a94384c73c9cea199a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_90.asset using Guid(11ec20a6d0238a94384c73c9cea199a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe2b3b5aa53c58c239160216c09420d') in 0.007412 seconds
+  Import took 0.011180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_110.asset
+  artifactKey: Guid(065548f86eaabcf4f952c54875973c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_110.asset using Guid(065548f86eaabcf4f952c54875973c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0910e2833e56091e131506c42f9ed2') in 0.007457 seconds
+  Import took 0.011185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_116.asset
+  artifactKey: Guid(e5339e4b926bca24098bbc592d9b4eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_116.asset using Guid(e5339e4b926bca24098bbc592d9b4eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c115bc246e2efbeb5923fbcc470b8788') in 0.008160 seconds
+  Import took 0.012354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_134.asset
+  artifactKey: Guid(7352039a395d4224daaa30918a36431f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_134.asset using Guid(7352039a395d4224daaa30918a36431f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7718d644f92fb42e2584f7eac077f213') in 0.007541 seconds
+  Import took 0.011865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_140.asset
+  artifactKey: Guid(3d2ca4b553b3fb44eb9e924fb199ae14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_140.asset using Guid(3d2ca4b553b3fb44eb9e924fb199ae14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce2becba579ab87e151c32233c155db') in 0.009129 seconds
+  Import took 0.012605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_129.asset
+  artifactKey: Guid(117bd82ca3fe6314bab7bb46e80db2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_129.asset using Guid(117bd82ca3fe6314bab7bb46e80db2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1b3132230f10771d283a590c741e67') in 0.007641 seconds
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_130.asset
+  artifactKey: Guid(2c7d0815e73f5af418468e50fc8d210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_130.asset using Guid(2c7d0815e73f5af418468e50fc8d210c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87fb0c82d94f405afc2b23fad2a007ba') in 0.007355 seconds
+  Import took 0.011275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_117.asset
+  artifactKey: Guid(966c5970eb297854f92c0e95ab1d1c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_117.asset using Guid(966c5970eb297854f92c0e95ab1d1c84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd11bf0ce01a674641943c348c45c1e') in 0.007936 seconds
+  Import took 0.011649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_105.asset
+  artifactKey: Guid(a9fb7f05d33f8244e86ece144c80eb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_105.asset using Guid(a9fb7f05d33f8244e86ece144c80eb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '689716173c00ca0c9c9ad2018c3a4773') in 0.008205 seconds
+  Import took 0.011807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_84.asset
+  artifactKey: Guid(9255e2e95ebbf274eb5cc035a3b8d819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_84.asset using Guid(9255e2e95ebbf274eb5cc035a3b8d819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17efaa533a6a16b6edc42011269f111b') in 0.007030 seconds
+  Import took 0.010734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_172.asset
+  artifactKey: Guid(7843c72c0bcdfc5479414606113cc9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_172.asset using Guid(7843c72c0bcdfc5479414606113cc9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd8ce02fde80661e05f22da55eb25f31') in 0.007428 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_92.asset
+  artifactKey: Guid(aae8de198002e204dad2040dae09e297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_92.asset using Guid(aae8de198002e204dad2040dae09e297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae868b88df3e6b6cdc8f5bde968f9fed') in 0.007882 seconds
+  Import took 0.011616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_143.asset
+  artifactKey: Guid(02622a98e05b9aa46929c8f4ceb226e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_143.asset using Guid(02622a98e05b9aa46929c8f4ceb226e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2930c21375287938d1951e6822a58f70') in 0.007462 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_167.asset
+  artifactKey: Guid(18f52bdef02cd5445bc12006bf00e1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_167.asset using Guid(18f52bdef02cd5445bc12006bf00e1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe88164073c81e0f90b1a6bbefc243e') in 0.008095 seconds
+  Import took 0.012303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_101.asset
+  artifactKey: Guid(554d5ca50fdb19f45b5f4e8f108f270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_101.asset using Guid(554d5ca50fdb19f45b5f4e8f108f270c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5d11f2a4202aa5aa4569f0a0f58c66') in 0.007368 seconds
+  Import took 0.011201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_121.asset
+  artifactKey: Guid(b6c164ff681d14b4fa55bb9c1841ae42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_121.asset using Guid(b6c164ff681d14b4fa55bb9c1841ae42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52aa5933220acb2088a5dc26ba9ed26') in 0.007201 seconds
+  Import took 0.010804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_158.asset
+  artifactKey: Guid(d80370ccbcd34fa4f8d6ff82f03297bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_158.asset using Guid(d80370ccbcd34fa4f8d6ff82f03297bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680b1048fc66dc7961a577c741f1679a') in 0.007446 seconds
+  Import took 0.011151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_126.asset
+  artifactKey: Guid(5e77fe25e55c98141a61f10ef6fc12f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_126.asset using Guid(5e77fe25e55c98141a61f10ef6fc12f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e4774293c2527c083a730194baa149') in 0.007529 seconds
+  Import took 0.011318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_128.asset
+  artifactKey: Guid(ca5d950ad6e85ce4a884e5ef85855aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_128.asset using Guid(ca5d950ad6e85ce4a884e5ef85855aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cab7a08b9fd7bac48f214b381cca82b') in 0.007049 seconds
+  Import took 0.010738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_123.asset
+  artifactKey: Guid(3e5f16afcf9f3e048a5ad9e52000219d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_123.asset using Guid(3e5f16afcf9f3e048a5ad9e52000219d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e143abf108ee8038110b2f549a0050') in 0.007389 seconds
+  Import took 0.011248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_150.asset
+  artifactKey: Guid(3038084f3de221b4f919806e7e8d42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_150.asset using Guid(3038084f3de221b4f919806e7e8d42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0bde3b661c4464e26b02831c5e9600c') in 0.007590 seconds
+  Import took 0.011443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_170.asset
+  artifactKey: Guid(4e720ecb9af33fd4992fd37cf78a51c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_170.asset using Guid(4e720ecb9af33fd4992fd37cf78a51c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d83902d8eb3d2b10236eea2c02c712') in 0.007253 seconds
+  Import took 0.011223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_164.asset
+  artifactKey: Guid(215bcf16823cc61428120d8773209823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_164.asset using Guid(215bcf16823cc61428120d8773209823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207a88ca86ec069b7eb6f602139b7382') in 0.007467 seconds
+  Import took 0.011257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_99.asset
+  artifactKey: Guid(1716d91c8f2f1c74a98a7ac2830a633e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_99.asset using Guid(1716d91c8f2f1c74a98a7ac2830a633e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f77d7047a6e4b33fb65a1a2f7461c71') in 0.007529 seconds
+  Import took 0.011400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_118.asset
+  artifactKey: Guid(ea434d59b5654674984da51d4bd97917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_118.asset using Guid(ea434d59b5654674984da51d4bd97917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7221173c0f61f6767f36def6351a0817') in 0.007423 seconds
+  Import took 0.011031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_137.asset
+  artifactKey: Guid(d060c435592796444899f2477a519a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_137.asset using Guid(d060c435592796444899f2477a519a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa8e7f0510774b6fc984577a01055ba0') in 0.008413 seconds
+  Import took 0.012437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_148.asset
+  artifactKey: Guid(d1ee0e2072117074fa0bff4d3f2c81ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_148.asset using Guid(d1ee0e2072117074fa0bff4d3f2c81ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4cd3d3ae3397530a0b70913c608159d') in 0.007324 seconds
+  Import took 0.011073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_83.asset
+  artifactKey: Guid(832cc69761c0c294193347cbc47e429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_83.asset using Guid(832cc69761c0c294193347cbc47e429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de4ffb0c6cdf06b26b265b2d83a85c00') in 0.007720 seconds
+  Import took 0.011393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_95.asset
+  artifactKey: Guid(a44066d84dbdf6e4babc235d5d155bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_95.asset using Guid(a44066d84dbdf6e4babc235d5d155bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c96dfdfc66a8ec83d0a0f04ef8653b1') in 0.008318 seconds
+  Import took 0.012058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_89.asset
+  artifactKey: Guid(4b01d14fd04378b48900fdf9f7f30ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_89.asset using Guid(4b01d14fd04378b48900fdf9f7f30ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d1007b05918cdc9148e6807e164840') in 0.007373 seconds
+  Import took 0.012002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_161.asset
+  artifactKey: Guid(23c227fd212247f439d53d7c1a837e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_161.asset using Guid(23c227fd212247f439d53d7c1a837e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5d3ded9ca50198db7b9c50deac4636') in 0.007927 seconds
+  Import took 0.011970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_156.asset
+  artifactKey: Guid(c25816d1f528f1f49978bdea9aeae4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_156.asset using Guid(c25816d1f528f1f49978bdea9aeae4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eda0bd4270359210bbefa7b8bd48f63') in 0.007652 seconds
+  Import took 0.011829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_138.asset
+  artifactKey: Guid(6899d7c451707b6438a40e8b9d95dc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_138.asset using Guid(6899d7c451707b6438a40e8b9d95dc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9b173c6a0f9065bf58f8b4d9a49865') in 0.007215 seconds
+  Import took 0.010763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_153.asset
+  artifactKey: Guid(b8c2248d940459c498137b91f892a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_153.asset using Guid(b8c2248d940459c498137b91f892a811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef2f653949acb7d5c57f858ae40fa2b') in 0.007832 seconds
+  Import took 0.011823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_131.asset
+  artifactKey: Guid(52f7269d3aa5cc2468f17b722742ec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_131.asset using Guid(52f7269d3aa5cc2468f17b722742ec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0e26d80f3650ae4805f986362cffb2') in 0.007345 seconds
+  Import took 0.011009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_111.asset
+  artifactKey: Guid(3b85696a1ed3cd54184072df9e51003a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_111.asset using Guid(3b85696a1ed3cd54184072df9e51003a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6457b3dc34f1c2c7d5ff7be5a029ec4') in 0.007358 seconds
+  Import took 0.011269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_104.asset
+  artifactKey: Guid(bf2b8f6ca7030544d96f647505795338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_104.asset using Guid(bf2b8f6ca7030544d96f647505795338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f8b988b9df7863e1695e76e06fad32') in 0.008364 seconds
+  Import took 0.012069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_147.asset
+  artifactKey: Guid(eee30507962bea247ad10da79d27f388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_147.asset using Guid(eee30507962bea247ad10da79d27f388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c50e5ff64aef0ff010d5149b572169') in 0.007446 seconds
+  Import took 0.011542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_168.asset
+  artifactKey: Guid(91f1ecfae84fb914fbe640609c96e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_168.asset using Guid(91f1ecfae84fb914fbe640609c96e4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3e87adc42a43a55d3bcb152dded4da') in 0.007416 seconds
+  Import took 0.010981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_169.asset
+  artifactKey: Guid(2692422b5f4f06444bce4ed872d80abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_169.asset using Guid(2692422b5f4f06444bce4ed872d80abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202ae82b301d4537d9aeae1975012a21') in 0.007460 seconds
+  Import took 0.011275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_163.asset
+  artifactKey: Guid(adbf04b96bda4124ba374e9721f5d5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_163.asset using Guid(adbf04b96bda4124ba374e9721f5d5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85872e10ccd4e2aad2b187c987da023f') in 0.007805 seconds
+  Import took 0.011348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_106.asset
+  artifactKey: Guid(caa3ec7615ebc314db3f8563132ff452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_106.asset using Guid(caa3ec7615ebc314db3f8563132ff452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94c1bf9fa8ea65cccf2f90a11b314f3') in 0.008310 seconds
+  Import took 0.012502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_86.asset
+  artifactKey: Guid(9d5d23bdb0aa798428c7eb349a742352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_86.asset using Guid(9d5d23bdb0aa798428c7eb349a742352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ea55a426ca9959bdbec21c344e6ea0') in 0.007461 seconds
+  Import took 0.011092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_152.asset
+  artifactKey: Guid(6e55de430323fb343bcb17aa75d964af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_152.asset using Guid(6e55de430323fb343bcb17aa75d964af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aead17706b65bb6935301616fdc5372f') in 0.007436 seconds
+  Import took 0.011623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_125.asset
+  artifactKey: Guid(ac7c7c9f8bf8af746b447eab72775ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_125.asset using Guid(ac7c7c9f8bf8af746b447eab72775ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8723fa4b4006e0b64f7e3622e2b25bbb') in 0.007583 seconds
+  Import took 0.011143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_133.asset
+  artifactKey: Guid(6cee3c8dbf6cbc748a843eba87513015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_133.asset using Guid(6cee3c8dbf6cbc748a843eba87513015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d513a8b88f6cc8fbc11086750118fb') in 0.008090 seconds
+  Import took 0.012000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_114.asset
+  artifactKey: Guid(c4fb115d03694e54397761d1b37b0e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_114.asset using Guid(c4fb115d03694e54397761d1b37b0e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4d623c2acf23cc98750f4fad34a1df2') in 0.007750 seconds
+  Import took 0.012178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_103.asset
+  artifactKey: Guid(bb0b2a778fb51d142b473f8916f4636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_103.asset using Guid(bb0b2a778fb51d142b473f8916f4636b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe1443a6e67286a3866f8d44b5d8b9b') in 0.007503 seconds
+  Import took 0.011352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_122.asset
+  artifactKey: Guid(4ddadfe96658a494babe250ed7f45c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_122.asset using Guid(4ddadfe96658a494babe250ed7f45c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1750a8fe3fc8f5357d5099bb1befefa') in 0.009224 seconds
+  Import took 0.012759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_127.asset
+  artifactKey: Guid(08d62890b7d3a4e49995671d8690a7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_127.asset using Guid(08d62890b7d3a4e49995671d8690a7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ecdb80148a48338e2c67f4ca69f7e7') in 0.007434 seconds
+  Import took 0.011450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_94.asset
+  artifactKey: Guid(58ce53724e217524881bca0d6623a638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_94.asset using Guid(58ce53724e217524881bca0d6623a638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25db72a8a90af3456d353b129aceb032') in 0.007817 seconds
+  Import took 0.011595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_157.asset
+  artifactKey: Guid(f7188bd9167f67e4cb2d916b4aeaad4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_157.asset using Guid(f7188bd9167f67e4cb2d916b4aeaad4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194f385a77c90188479070fcaf0a1745') in 0.008491 seconds
+  Import took 0.012268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_115.asset
+  artifactKey: Guid(7a9224505f191b64c908c5d3e59b5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_115.asset using Guid(7a9224505f191b64c908c5d3e59b5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100989fa41d017eb2f442780d5e42b19') in 0.007455 seconds
+  Import took 0.011394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_87.asset
+  artifactKey: Guid(e068e39b43ddfe8408de9f01a5488b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_87.asset using Guid(e068e39b43ddfe8408de9f01a5488b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c49298b4152adf7fbe12c915ad067cb') in 0.007669 seconds
+  Import took 0.011510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_159.asset
+  artifactKey: Guid(c4e633c1ae4252346aeddf9d7faf8f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_159.asset using Guid(c4e633c1ae4252346aeddf9d7faf8f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7973336e9daef3a6cccf38d73b363134') in 0.008331 seconds
+  Import took 0.012498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_91.asset
+  artifactKey: Guid(d7a7db6fd9e58ff4e99fb77e2093b790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_91.asset using Guid(d7a7db6fd9e58ff4e99fb77e2093b790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38c047968c284bd773945256ec9d1f6') in 0.009230 seconds
+  Import took 0.014531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_155.asset
+  artifactKey: Guid(874b0d91b6d3e664986d5947855b61b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_155.asset using Guid(874b0d91b6d3e664986d5947855b61b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416555b8980d96987ef72adc960ce12b') in 0.009726 seconds
+  Import took 0.015134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_109.asset
+  artifactKey: Guid(9521d98c86f0ce949a946cfead0a859f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_109.asset using Guid(9521d98c86f0ce949a946cfead0a859f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ad06176bd0622ae208a73e98fbb5631') in 0.009727 seconds
+  Import took 0.014993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_113.asset
+  artifactKey: Guid(d651ab70eeacbc54f803f9ef27eb25d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_113.asset using Guid(d651ab70eeacbc54f803f9ef27eb25d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67bde0bee26f36b17a4743e468fad36b') in 0.007886 seconds
+  Import took 0.012253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_149.asset
+  artifactKey: Guid(2b0735e7465545548a8bc446a8a730d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_149.asset using Guid(2b0735e7465545548a8bc446a8a730d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b89d43509c53cdbc5148296db6f594a') in 0.009777 seconds
+  Import took 0.014284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_97.asset
+  artifactKey: Guid(686a93d029183f3438f8e387b9e77263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_97.asset using Guid(686a93d029183f3438f8e387b9e77263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '667d491891af579bda27a62e9929de92') in 0.008489 seconds
+  Import took 0.013185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_102.asset
+  artifactKey: Guid(4ad46844e34bc0d4f9f69809056ddb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_102.asset using Guid(4ad46844e34bc0d4f9f69809056ddb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64b7d6b585c57957e245f47cb2fdb5ff') in 0.010298 seconds
+  Import took 0.015837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_136.asset
+  artifactKey: Guid(38286f00fa5b70e4784c734e67c3d6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_136.asset using Guid(38286f00fa5b70e4784c734e67c3d6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6626484d2bdf8df1042ec1bdce1f9fa1') in 0.008020 seconds
+  Import took 0.012067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_146.asset
+  artifactKey: Guid(133d7f271a371be47add1b784b08d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_146.asset using Guid(133d7f271a371be47add1b784b08d414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb66197e5e208be71f29f9e9fe2d902') in 0.008716 seconds
+  Import took 0.013750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.207397 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_173.asset
+  artifactKey: Guid(bedcf86db2860d04698257c76fc05c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_173.asset using Guid(bedcf86db2860d04698257c76fc05c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c22138a6d88f87c670c5ee59335ff62d') in 0.008487 seconds
+  Import took 0.012568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_192.asset
+  artifactKey: Guid(3b0a1f003208f844fb9390b5821c4a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_192.asset using Guid(3b0a1f003208f844fb9390b5821c4a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2e2f472656325676092b880b38f042') in 0.007938 seconds
+  Import took 0.011763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_177.asset
+  artifactKey: Guid(9040ff26ca6891a438efbdcb6c9aed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_177.asset using Guid(9040ff26ca6891a438efbdcb6c9aed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d809993b13d4610c3d4f2d26794837') in 0.007601 seconds
+  Import took 0.011204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_189.asset
+  artifactKey: Guid(0f93a73a8898f714b8c7fb182ab50c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_189.asset using Guid(0f93a73a8898f714b8c7fb182ab50c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4995217cae50063d62a48fee40bcf6') in 0.008219 seconds
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_183.asset
+  artifactKey: Guid(f9629f83f603fe442b4595ac343ea446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_183.asset using Guid(f9629f83f603fe442b4595ac343ea446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565b9625b7f5d5bab11c1f955424a200') in 0.007496 seconds
+  Import took 0.011315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_207.asset
+  artifactKey: Guid(a0212e513c2d09c44953706c6946f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_207.asset using Guid(a0212e513c2d09c44953706c6946f7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8511ab5ce051792c11f304404af497f8') in 0.007333 seconds
+  Import took 0.011862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_197.asset
+  artifactKey: Guid(e61344e0fe1dbf24ba025ea6f3864784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_197.asset using Guid(e61344e0fe1dbf24ba025ea6f3864784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3110689e4a7e5908cc539f1041e329bb') in 0.007484 seconds
+  Import took 0.011272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_206.asset
+  artifactKey: Guid(3ea464eefdf6c684b9c930f87754363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_206.asset using Guid(3ea464eefdf6c684b9c930f87754363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ae009930a00f38007611ae8e1049ca') in 0.007606 seconds
+  Import took 0.011166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_200.asset
+  artifactKey: Guid(9656b5d58ca024445b3ab9481b59186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_200.asset using Guid(9656b5d58ca024445b3ab9481b59186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2acc4445b3b60ec771e2a47070196d5') in 0.007763 seconds
+  Import took 0.011247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_180.asset
+  artifactKey: Guid(fd88ef3bc9c19d1428a18e7cfb1860a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_180.asset using Guid(fd88ef3bc9c19d1428a18e7cfb1860a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7e1f5ea4608bc6fa36d0d982991151') in 0.007390 seconds
+  Import took 0.011634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_190.asset
+  artifactKey: Guid(026fb20671b82ad45a996bb823285808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_190.asset using Guid(026fb20671b82ad45a996bb823285808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb817d147f77ced575f8f4bd6a9b0358') in 0.007072 seconds
+  Import took 0.010594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_202.asset
+  artifactKey: Guid(9147f19e222a9c9439bc770bea01a6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_202.asset using Guid(9147f19e222a9c9439bc770bea01a6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc60a7b41eb80ab32afb7ae4c7c14e8') in 0.008014 seconds
+  Import took 0.011696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_203.asset
+  artifactKey: Guid(f3fc9812b3bbd3d4d94601b0eb6f5957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_203.asset using Guid(f3fc9812b3bbd3d4d94601b0eb6f5957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e3f7c2dfe98fab97bbaa0ba3c10878') in 0.007356 seconds
+  Import took 0.011141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_201.asset
+  artifactKey: Guid(9292f74406d70de4db4a75185e369564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_201.asset using Guid(9292f74406d70de4db4a75185e369564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a689b2f420418715fc77f588f53660') in 0.007414 seconds
+  Import took 0.011158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_194.asset
+  artifactKey: Guid(1febd206a0859794583b0b0dd5375d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_194.asset using Guid(1febd206a0859794583b0b0dd5375d6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d29234dc70f453ef394ead62ca9080') in 0.007724 seconds
+  Import took 0.011241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_175.asset
+  artifactKey: Guid(0c770aa6c5b06b44f945aed3a733aca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_175.asset using Guid(0c770aa6c5b06b44f945aed3a733aca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '490823a2547972edf66d70f703e8d357') in 0.007236 seconds
+  Import took 0.010943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_191.asset
+  artifactKey: Guid(d66e8a9c90175eb44928f1425f2056f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_191.asset using Guid(d66e8a9c90175eb44928f1425f2056f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fe02c3460a54a985d72a353f8f05dd') in 0.007986 seconds
+  Import took 0.011698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_174.asset
+  artifactKey: Guid(69db5a81083aa844682d720075c2e328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_174.asset using Guid(69db5a81083aa844682d720075c2e328) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e87a33c05d4d86f9d5f17213e18685d') in 0.007109 seconds
+  Import took 0.011309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_187.asset
+  artifactKey: Guid(bac3195b6adfb314a9440acaf317535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_187.asset using Guid(bac3195b6adfb314a9440acaf317535d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c15121762feeeaa25e40f13257f4a3') in 0.007223 seconds
+  Import took 0.010742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_198.asset
+  artifactKey: Guid(465c0a283615b114b88450d954aaeb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_198.asset using Guid(465c0a283615b114b88450d954aaeb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f181fbdecb69a711ca2fc5773c67d9') in 0.007354 seconds
+  Import took 0.011054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_199.asset
+  artifactKey: Guid(68099c1be9b5bd042a516857c7117594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_199.asset using Guid(68099c1be9b5bd042a516857c7117594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d39cb76d00ab389fe3f74a890fcad1') in 0.007151 seconds
+  Import took 0.010707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_178.asset
+  artifactKey: Guid(0a366c068113feb4faa10d71de36ca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_178.asset using Guid(0a366c068113feb4faa10d71de36ca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef97201107cfe82b509536f1072960b') in 0.007490 seconds
+  Import took 0.011378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_181.asset
+  artifactKey: Guid(77cced8bbf4cc3b48b0e8ed755a1eb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_181.asset using Guid(77cced8bbf4cc3b48b0e8ed755a1eb08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e669c3d906458b283416021b0a290513') in 0.007393 seconds
+  Import took 0.011278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_176.asset
+  artifactKey: Guid(0d989986b3a6a5a4eaa6a0e2634e212a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_176.asset using Guid(0d989986b3a6a5a4eaa6a0e2634e212a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f275b8a4353d6c072847ee201c053d84') in 0.007189 seconds
+  Import took 0.010732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_184.asset
+  artifactKey: Guid(1033792da07f62f40a1b6c1e77777717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_184.asset using Guid(1033792da07f62f40a1b6c1e77777717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0c52b74db6bdde51efdf7efb768e8b') in 0.007599 seconds
+  Import took 0.011385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_185.asset
+  artifactKey: Guid(c74e9c44ddfd1c341b3cbccedad8d15f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_185.asset using Guid(c74e9c44ddfd1c341b3cbccedad8d15f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577455710e2706d62419cd1b9d5c5745') in 0.007554 seconds
+  Import took 0.012068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_196.asset
+  artifactKey: Guid(c535b1d8b1f77a54ab8674ac25b4af2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_196.asset using Guid(c535b1d8b1f77a54ab8674ac25b4af2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc8b45b153bca5b3a78915820bcfee7') in 0.007180 seconds
+  Import took 0.010924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_210.asset
+  artifactKey: Guid(55c9b1c22c3b1c74c85fccb79c21915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_210.asset using Guid(55c9b1c22c3b1c74c85fccb79c21915a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529d58d0ed140457950f8cd253abd685') in 0.007304 seconds
+  Import took 0.010930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_263.asset
+  artifactKey: Guid(77fa93fb873360b459f440cc1075a94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_263.asset using Guid(77fa93fb873360b459f440cc1075a94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d36fd1ead7ac767e9ef70277a400f10') in 0.007757 seconds
+  Import took 0.011381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_264.asset
+  artifactKey: Guid(98af69969dc9d2d4787f7112d22dee6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_264.asset using Guid(98af69969dc9d2d4787f7112d22dee6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b537eb28f38425d7acc33f198b0d673') in 0.007350 seconds
+  Import took 0.011173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_265.asset
+  artifactKey: Guid(8f48b3eb4611aef41bad8aabbe161596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_265.asset using Guid(8f48b3eb4611aef41bad8aabbe161596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de689776b250a61c8339859aad1a0dc0') in 0.007504 seconds
+  Import took 0.011062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_255.asset
+  artifactKey: Guid(38274fba5cd117942af94c61bc14fb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_255.asset using Guid(38274fba5cd117942af94c61bc14fb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82c2c193a252743e743196d98127126') in 0.007612 seconds
+  Import took 0.011385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_214.asset
+  artifactKey: Guid(79b0134ada0ebea41a6dcb23b815afb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_214.asset using Guid(79b0134ada0ebea41a6dcb23b815afb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4782338806a813594c72fec39dbbb0') in 0.007287 seconds
+  Import took 0.010860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_277.asset
+  artifactKey: Guid(3607971f38df7bd4b907f3bc045dc629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_277.asset using Guid(3607971f38df7bd4b907f3bc045dc629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84019b06fba69edffa39f09126f1b4e6') in 0.007180 seconds
+  Import took 0.010804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_270.asset
+  artifactKey: Guid(131828b8294d15541a4f50fd10f3f83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_270.asset using Guid(131828b8294d15541a4f50fd10f3f83d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9cfdb387b17a96f9b718db995dbba05') in 0.007052 seconds
+  Import took 0.010691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_292.asset
+  artifactKey: Guid(70f80d1990b291145ae65149c4718c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_292.asset using Guid(70f80d1990b291145ae65149c4718c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c7a5bd4bf3aaf3df9a424f2dcaf3bc') in 0.008159 seconds
+  Import took 0.012183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_257.asset
+  artifactKey: Guid(cec7fc33ebb6df645a1e0652b299ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_257.asset using Guid(cec7fc33ebb6df645a1e0652b299ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f90076cd722170bbcbe195f0c52e816') in 0.007131 seconds
+  Import took 0.010642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_208.asset
+  artifactKey: Guid(3697a27a313312340ad6acb7172bc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_208.asset using Guid(3697a27a313312340ad6acb7172bc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e05febfd4ad75e7c98ffeb9717562b') in 0.007274 seconds
+  Import took 0.010772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_261.asset
+  artifactKey: Guid(7c7b05ca56f32704281c89de2607a549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_261.asset using Guid(7c7b05ca56f32704281c89de2607a549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c22eaf3cf05eee840eb83ce9e845ad') in 0.007344 seconds
+  Import took 0.011029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_262.asset
+  artifactKey: Guid(11a5bf693bd92bc40abd1d4c232d2f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_262.asset using Guid(11a5bf693bd92bc40abd1d4c232d2f1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e91da073ff46fedd15431490b60a11') in 0.007036 seconds
+  Import took 0.010663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_291.asset
+  artifactKey: Guid(d4dff5f1dba36ce4d8dc0f96bf02b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_291.asset using Guid(d4dff5f1dba36ce4d8dc0f96bf02b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9508aa15ca72f17f1ba6cf8ee86096e') in 0.007264 seconds
+  Import took 0.010971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_251.asset
+  artifactKey: Guid(a34192572185153408cd2a3496f389eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_251.asset using Guid(a34192572185153408cd2a3496f389eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8117e0fedd1d6b82bd0f4f443ee93959') in 0.008353 seconds
+  Import took 0.012788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_256.asset
+  artifactKey: Guid(acc4b317ff0bd484a8f1f0e04dba1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_256.asset using Guid(acc4b317ff0bd484a8f1f0e04dba1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39cb101f2ca11341975d8306f246297') in 0.007185 seconds
+  Import took 0.010753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_279.asset
+  artifactKey: Guid(9b84f1495618ac6469a6310232d9c628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_279.asset using Guid(9b84f1495618ac6469a6310232d9c628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109209b577ae968c6f796d9cce3e3c04') in 0.007463 seconds
+  Import took 0.011215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_226.asset
+  artifactKey: Guid(8c3f85a6f69c0484ab25658eebea34e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_226.asset using Guid(8c3f85a6f69c0484ab25658eebea34e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c33cf074311a7f1230894d88c9a59174') in 0.008005 seconds
+  Import took 0.011728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_247.asset
+  artifactKey: Guid(db06335f7f84fb04899657b0aef60900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_247.asset using Guid(db06335f7f84fb04899657b0aef60900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51d3002b394596df02c2da6c33308d1') in 0.007398 seconds
+  Import took 0.010982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_216.asset
+  artifactKey: Guid(4c38ac42bfef6c448bcfccbf7f905686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_216.asset using Guid(4c38ac42bfef6c448bcfccbf7f905686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd21a4422e34c91a0a015ee27658a233') in 0.007286 seconds
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_306.asset
+  artifactKey: Guid(e376676042e2a0d438e6a642212f26bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_306.asset using Guid(e376676042e2a0d438e6a642212f26bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c44a7f67653116734249e474f185de6') in 0.007682 seconds
+  Import took 0.012079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_296.asset
+  artifactKey: Guid(9510e40c1e2a3f44c8ec0ba0a43f940b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_296.asset using Guid(9510e40c1e2a3f44c8ec0ba0a43f940b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c12ca56e092f17a7a127078191596c') in 0.007343 seconds
+  Import took 0.010893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_273.asset
+  artifactKey: Guid(bfc24412a46b6f74882d686b5c5e9845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_273.asset using Guid(bfc24412a46b6f74882d686b5c5e9845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fae39a26877eb95eb91464767a37ad0') in 0.007447 seconds
+  Import took 0.011215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_298.asset
+  artifactKey: Guid(9b90ded4a6d544248a2d501e098feb68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_298.asset using Guid(9b90ded4a6d544248a2d501e098feb68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafc44a51736d312368ce598a30ce17d') in 0.007327 seconds
+  Import took 0.010982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_288.asset
+  artifactKey: Guid(2c3a0cfac03f0ae439c652a90da195cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_288.asset using Guid(2c3a0cfac03f0ae439c652a90da195cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118fcfe66042d299803374892ceef3fb') in 0.007091 seconds
+  Import took 0.010756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_304.asset
+  artifactKey: Guid(fa75f6fd69d378d408011ce6f70934f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_304.asset using Guid(fa75f6fd69d378d408011ce6f70934f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46922aaa1150c7a6531e45c7d66248e') in 0.008297 seconds
+  Import took 0.012239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_284.asset
+  artifactKey: Guid(949d47546e568fd4ca57d9fcad330dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_284.asset using Guid(949d47546e568fd4ca57d9fcad330dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120bd367f20635b72f1c2c5d87f33071') in 0.007298 seconds
+  Import took 0.011195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_289.asset
+  artifactKey: Guid(ff788d63c1dfacc40b44b4d334933ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_289.asset using Guid(ff788d63c1dfacc40b44b4d334933ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82dd32dfaec0ab459c6eaf7a3c5e26f5') in 0.007283 seconds
+  Import took 0.010889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_224.asset
+  artifactKey: Guid(1ace0a4390eb4ec47802a40a9ec1f5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_224.asset using Guid(1ace0a4390eb4ec47802a40a9ec1f5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da26d6aa5ebd713c037743b38f2079df') in 0.007689 seconds
+  Import took 0.011337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_287.asset
+  artifactKey: Guid(582f91880fda19645821c6bf0880bd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_287.asset using Guid(582f91880fda19645821c6bf0880bd22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dbc49ca3f38268c6eb5f79488e6b593') in 0.007359 seconds
+  Import took 0.010812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_293.asset
+  artifactKey: Guid(5f5208f65dbfa8b42bece3a44508fa16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_293.asset using Guid(5f5208f65dbfa8b42bece3a44508fa16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fff0380a863c8f822bf304dd94989c2') in 0.007607 seconds
+  Import took 0.011234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_244.asset
+  artifactKey: Guid(1d8f9b8c5dbc6af4690be60482d66b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_244.asset using Guid(1d8f9b8c5dbc6af4690be60482d66b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a26588e7258e8d1c15caa9e15adb55') in 0.008433 seconds
+  Import took 0.012338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_228.asset
+  artifactKey: Guid(b8bda76c8f98796488c3bf44e9d1c44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_228.asset using Guid(b8bda76c8f98796488c3bf44e9d1c44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a969d25f2fa85d086de046602450b409') in 0.007294 seconds
+  Import took 0.010858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_237.asset
+  artifactKey: Guid(51fd56afc8abe674d95bc05a20739993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_237.asset using Guid(51fd56afc8abe674d95bc05a20739993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eacedf0baa4313c99b335cf1e799572') in 0.007812 seconds
+  Import took 0.011549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_231.asset
+  artifactKey: Guid(0c26cd2ab92c9914e9aa0935c4e84530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_231.asset using Guid(0c26cd2ab92c9914e9aa0935c4e84530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db9fcd50c3be79d4fe82506865c052e') in 0.007234 seconds
+  Import took 0.010988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_254.asset
+  artifactKey: Guid(93386169e0551994d89b32c9af75585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_254.asset using Guid(93386169e0551994d89b32c9af75585c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e68361546feb7b1e3fb2f405c9bcdab') in 0.007012 seconds
+  Import took 0.010527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_269.asset
+  artifactKey: Guid(ebaf6dabed8d02843a008de7532d2caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_269.asset using Guid(ebaf6dabed8d02843a008de7532d2caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '788caeee445c82752535d3c83c4fb5db') in 0.007320 seconds
+  Import took 0.010990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_211.asset
+  artifactKey: Guid(f6cd6cdab12647c40b22903c76406a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_211.asset using Guid(f6cd6cdab12647c40b22903c76406a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eac1c55589bdc001bf57b8f26fb8095') in 0.007049 seconds
+  Import took 0.010916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_236.asset
+  artifactKey: Guid(710ea7189d585194d9b4eaca1acef889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_236.asset using Guid(710ea7189d585194d9b4eaca1acef889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087c5f7da5e44932f1e1f1e7dc32cbb6') in 0.007370 seconds
+  Import took 0.011230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_260.asset
+  artifactKey: Guid(7bc5d422a5ee8e4478ed13d159c7d9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_260.asset using Guid(7bc5d422a5ee8e4478ed13d159c7d9ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ccab4d0182c646f638a7ec4a3fb64d') in 0.007418 seconds
+  Import took 0.010941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_213.asset
+  artifactKey: Guid(a578cfdaefedf894a85524841b93738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_213.asset using Guid(a578cfdaefedf894a85524841b93738b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2db5b55ecb52fba50bad9dea874af8') in 0.007985 seconds
+  Import took 0.011643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_218.asset
+  artifactKey: Guid(3ba611187820796408485c36460196a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_218.asset using Guid(3ba611187820796408485c36460196a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1029bf86b2ba9901a2e4972831cb504') in 0.007142 seconds
+  Import took 0.010972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_305.asset
+  artifactKey: Guid(44d599b230784df4eaafad58486b5752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_305.asset using Guid(44d599b230784df4eaafad58486b5752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370f55464d75e1fca96bb3848684c601') in 0.007673 seconds
+  Import took 0.011455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_204.asset
+  artifactKey: Guid(4696fd02ce555664793407029e7b2d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_204.asset using Guid(4696fd02ce555664793407029e7b2d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7a12b4a3b133bbda2241350ab2c4cd') in 0.007300 seconds
+  Import took 0.011100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_205.asset
+  artifactKey: Guid(b530dea3e80ead246bf473a59c09c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_205.asset using Guid(b530dea3e80ead246bf473a59c09c45a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7bae5319213dae0e9eda7f67c0a991a') in 0.007572 seconds
+  Import took 0.010998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_223.asset
+  artifactKey: Guid(8dfebc39f319c2343a60cfe144629ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_223.asset using Guid(8dfebc39f319c2343a60cfe144629ab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdeb1fd4b46d44c4cec22f9cf61b2e7') in 0.007294 seconds
+  Import took 0.011019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_285.asset
+  artifactKey: Guid(14e519a14fcf5704d92d19105c7c57c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_285.asset using Guid(14e519a14fcf5704d92d19105c7c57c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a3c8eaaaf7fa0ceb13f2d3689092cc') in 0.007719 seconds
+  Import took 0.011440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_250.asset
+  artifactKey: Guid(460ac9b84a0f8864092a7bf69c495f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_250.asset using Guid(460ac9b84a0f8864092a7bf69c495f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f553a612754c4105ec268203694fc6d') in 0.007274 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_309.asset
+  artifactKey: Guid(2e63dcb3e8998324e8b016d7082d0b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_309.asset using Guid(2e63dcb3e8998324e8b016d7082d0b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e57e41973468881808dcb5b7db404af8') in 0.007352 seconds
+  Import took 0.011178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_193.asset
+  artifactKey: Guid(6d435064b1624da488d7aff83d261c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_193.asset using Guid(6d435064b1624da488d7aff83d261c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101808a808c29134f156ab43bc8a53f4') in 0.007150 seconds
+  Import took 0.010695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_242.asset
+  artifactKey: Guid(ce2a2970605b8e947ba178f80e38e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_242.asset using Guid(ce2a2970605b8e947ba178f80e38e486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f834188f42c4153cbf462243c784db10') in 0.007280 seconds
+  Import took 0.010931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_299.asset
+  artifactKey: Guid(e6836ce6e9879d04cb36dcdc0b7d776f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_299.asset using Guid(e6836ce6e9879d04cb36dcdc0b7d776f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d957de7666d8f8f0c825a551c1f1481') in 0.007160 seconds
+  Import took 0.010803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_280.asset
+  artifactKey: Guid(b690fb6f88a6a7b40a205189014ce988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_280.asset using Guid(b690fb6f88a6a7b40a205189014ce988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfef181c109515c3d9932248fe2e2e93') in 0.007291 seconds
+  Import took 0.010994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_310.asset
+  artifactKey: Guid(3efc0dab7523a6a4389f9c8c796b79be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_310.asset using Guid(3efc0dab7523a6a4389f9c8c796b79be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd722cfb00c565fb4d9da9b146c5559f2') in 0.007858 seconds
+  Import took 0.011871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_272.asset
+  artifactKey: Guid(316c598a7c82f8648931febee4afd06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_272.asset using Guid(316c598a7c82f8648931febee4afd06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ee7ac2a30e05f07e6381a4409a6e56') in 0.008040 seconds
+  Import took 0.011820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_245.asset
+  artifactKey: Guid(a8ac534ecd280074d90af452e8118375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_245.asset using Guid(a8ac534ecd280074d90af452e8118375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c5878d8e3336e520584d2c86b0af52') in 0.008165 seconds
+  Import took 0.011709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_195.asset
+  artifactKey: Guid(bfe4445ed093fef49b22a5449c884dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_195.asset using Guid(bfe4445ed093fef49b22a5449c884dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e34e6d1671965cf35cd16165ef9c4b') in 0.007511 seconds
+  Import took 0.010999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_307.asset
+  artifactKey: Guid(6ef1c6611c165064d97b5cbf483f1428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_307.asset using Guid(6ef1c6611c165064d97b5cbf483f1428) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263afd6eb772b6eb44bd8663d74f6be6') in 0.007461 seconds
+  Import took 0.011156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_311.asset
+  artifactKey: Guid(d1afb21988b8dde4db20b51b497cf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_311.asset using Guid(d1afb21988b8dde4db20b51b497cf7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bd53cc8f49ebd172e37cf4cb968d4e') in 0.007899 seconds
+  Import took 0.012070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_282.asset
+  artifactKey: Guid(c737b6f492e82f9438359333151c3731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_282.asset using Guid(c737b6f492e82f9438359333151c3731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4d72ba53a7dc8a31f6f6624b43c68e') in 0.008149 seconds
+  Import took 0.012542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_222.asset
+  artifactKey: Guid(a601a0f1329a0a742bdac7b295f09cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_222.asset using Guid(a601a0f1329a0a742bdac7b295f09cf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ec76077e45d0060fc1c3752a493049') in 0.007978 seconds
+  Import took 0.012554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_186.asset
+  artifactKey: Guid(a657ea7f6d401304bab646c034e0a893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_186.asset using Guid(a657ea7f6d401304bab646c034e0a893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07c17e9dc29b4305b6c41287ba5fe28') in 0.007843 seconds
+  Import took 0.011375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_179.asset
+  artifactKey: Guid(c94bcccad61dca84cb76109b944d6901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_179.asset using Guid(c94bcccad61dca84cb76109b944d6901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd769074a7df7f062f7491877c97acfaa') in 0.007492 seconds
+  Import took 0.011197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_290.asset
+  artifactKey: Guid(71717da964dacb84899a203c2020d3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_290.asset using Guid(71717da964dacb84899a203c2020d3ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0805513163dcef0f65e64a3c2d53ce32') in 0.007315 seconds
+  Import took 0.010993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_274.asset
+  artifactKey: Guid(603213805a952d04980f314fac29b20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_274.asset using Guid(603213805a952d04980f314fac29b20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb42f9417fc8b9143b91933a36460b1') in 0.008418 seconds
+  Import took 0.013397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_308.asset
+  artifactKey: Guid(b35393c14cf66fa469186c918ffe09ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_308.asset using Guid(b35393c14cf66fa469186c918ffe09ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1547170dac4be7e6f20c1a4bbae85dd') in 0.007546 seconds
+  Import took 0.011850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_295.asset
+  artifactKey: Guid(da45163eb49b34c4698f0e0b4cf49f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_295.asset using Guid(da45163eb49b34c4698f0e0b4cf49f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6474ed4c3b53d431052f902268a38ca1') in 0.008018 seconds
+  Import took 0.011817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_234.asset
+  artifactKey: Guid(c39c16b8cf48ed544837d5d72112095f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_234.asset using Guid(c39c16b8cf48ed544837d5d72112095f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e60db395580e75f93381507f9eff92d8') in 0.007511 seconds
+  Import took 0.011366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_229.asset
+  artifactKey: Guid(8b97375d1fad5d34db4fad299ce20a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_229.asset using Guid(8b97375d1fad5d34db4fad299ce20a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e347f14eeea4078e1da9eb1afd9a6626') in 0.008275 seconds
+  Import took 0.011971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_286.asset
+  artifactKey: Guid(e03aabf16b8e09b408c517b910d8c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_286.asset using Guid(e03aabf16b8e09b408c517b910d8c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46cc04b5b729a946b65a6ee83ee5c4f') in 0.009024 seconds
+  Import took 0.013042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_209.asset
+  artifactKey: Guid(f895801f67948c24b8e5dc06f1e0473b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_209.asset using Guid(f895801f67948c24b8e5dc06f1e0473b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57b08142b0bbf8f8cb10feb194c7c159') in 0.008793 seconds
+  Import took 0.012674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_241.asset
+  artifactKey: Guid(c69cdd2827302ac41a21fc13b0b0e14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_241.asset using Guid(c69cdd2827302ac41a21fc13b0b0e14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2169419265b7dbefb6dcf2f12bfa321') in 0.008803 seconds
+  Import took 0.013429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_217.asset
+  artifactKey: Guid(5674a562b5fde7248be45d9c0c953144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_217.asset using Guid(5674a562b5fde7248be45d9c0c953144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd864bad6fc13d1fd8817d689f0b1a47b') in 0.007524 seconds
+  Import took 0.011525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_215.asset
+  artifactKey: Guid(b38464fc888c9b94c973d3c6d55acc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_215.asset using Guid(b38464fc888c9b94c973d3c6d55acc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a30ccaf86612341592abfe6898fe43') in 0.007972 seconds
+  Import took 0.011661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_238.asset
+  artifactKey: Guid(48c3b02c8fb759d4684cd58b6d7a537b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_238.asset using Guid(48c3b02c8fb759d4684cd58b6d7a537b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58705636112eb1fda4d3bddcb28a49e') in 0.008112 seconds
+  Import took 0.012110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_312.asset
+  artifactKey: Guid(c7217a7708b6d9d4fb8ef7d96a199241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_312.asset using Guid(c7217a7708b6d9d4fb8ef7d96a199241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dda71ecd42cdd0e08994e8f5dc9d9a5') in 0.007580 seconds
+  Import took 0.011840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_252.asset
+  artifactKey: Guid(5b46dcaa95633da4e90675570ec3b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_252.asset using Guid(5b46dcaa95633da4e90675570ec3b948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aecc6175c398e855b9fce0989ac8cc5') in 0.007245 seconds
+  Import took 0.011597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_281.asset
+  artifactKey: Guid(8e39e9c168a9d2c45aa80fe5984f5c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_281.asset using Guid(8e39e9c168a9d2c45aa80fe5984f5c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f519f354e51f91ed322692ec22f02eb') in 0.007834 seconds
+  Import took 0.011468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_212.asset
+  artifactKey: Guid(41e586cceac93594093fd0d87a21e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_212.asset using Guid(41e586cceac93594093fd0d87a21e055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b9acf495dc603c9dc8c9425b3550ff') in 0.008687 seconds
+  Import took 0.013023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_232.asset
+  artifactKey: Guid(df23b06919dd9e24684c54b2a0592c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_232.asset using Guid(df23b06919dd9e24684c54b2a0592c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f836942544d2fa986692e8bdb0e3700') in 0.014652 seconds
+  Import took 0.018702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_233.asset
+  artifactKey: Guid(ee727658f6cc189488f090637b697a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_233.asset using Guid(ee727658f6cc189488f090637b697a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edfdf39150c6a10d8e186e2ec799876') in 0.007502 seconds
+  Import took 0.011300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_268.asset
+  artifactKey: Guid(1432964b2d752b544b403aeab27e4e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_268.asset using Guid(1432964b2d752b544b403aeab27e4e22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85306ede41ece0bc58120de35d036a9a') in 0.007636 seconds
+  Import took 0.011274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_220.asset
+  artifactKey: Guid(b78fdd14b9db83145955919652c181ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_220.asset using Guid(b78fdd14b9db83145955919652c181ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c373e484a0b5aca8ed31927809d7461e') in 0.007717 seconds
+  Import took 0.011482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_283.asset
+  artifactKey: Guid(9d74a6efee17ca141bfb8532e5b6b6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_283.asset using Guid(9d74a6efee17ca141bfb8532e5b6b6e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e3a06e9baa4c7678e47b108a09b076') in 0.007498 seconds
+  Import took 0.011286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_246.asset
+  artifactKey: Guid(ad843a6fe9297d4448dcf3e6230875f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_246.asset using Guid(ad843a6fe9297d4448dcf3e6230875f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1de900fb10c1928a09656fc9d7237f') in 0.007072 seconds
+  Import took 0.010723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_225.asset
+  artifactKey: Guid(c687cfdbcffaff74891a27d6dcdaa963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_225.asset using Guid(c687cfdbcffaff74891a27d6dcdaa963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee474ff9fc3df6a360bb07cb529978c') in 0.008492 seconds
+  Import took 0.012258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_301.asset
+  artifactKey: Guid(2d7ea30890bc5c6469c6b4dcb9e5dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_301.asset using Guid(2d7ea30890bc5c6469c6b4dcb9e5dadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3f7989dd3134d2d2aab7d8e936d7c5') in 0.007280 seconds
+  Import took 0.010880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_219.asset
+  artifactKey: Guid(9f92710fb61c7c54588e18fe1e4e46c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_219.asset using Guid(9f92710fb61c7c54588e18fe1e4e46c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf845be4245339b761bfee15a6df6e7') in 0.008228 seconds
+  Import took 0.012599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_235.asset
+  artifactKey: Guid(9780559b942a2424da74c801797ca78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_235.asset using Guid(9780559b942a2424da74c801797ca78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c6ab08d762aa1d491d1390301b43ca') in 0.007339 seconds
+  Import took 0.011003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_253.asset
+  artifactKey: Guid(f62f0291432b7d845af7f3c55faf4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_253.asset using Guid(f62f0291432b7d845af7f3c55faf4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acbf72c10d7a1f43504a7e843604525') in 0.007516 seconds
+  Import took 0.011258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_302.asset
+  artifactKey: Guid(be20f42797547dd4cb28766207a71d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_302.asset using Guid(be20f42797547dd4cb28766207a71d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe886c147cb965f8aface7d499e94013') in 0.008386 seconds
+  Import took 0.011947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_239.asset
+  artifactKey: Guid(607e19ef324419f469db104d7d620008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_239.asset using Guid(607e19ef324419f469db104d7d620008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897a90845ec9b744877a4c169ec7f0d7') in 0.007351 seconds
+  Import took 0.010977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_303.asset
+  artifactKey: Guid(767d2b606e519dd46949122a7911a1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_303.asset using Guid(767d2b606e519dd46949122a7911a1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4f78499f6c710c89c8941f77d47ddf') in 0.007442 seconds
+  Import took 0.011050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_297.asset
+  artifactKey: Guid(675df3ddb91a28549a6d4a0fe6e6c0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_297.asset using Guid(675df3ddb91a28549a6d4a0fe6e6c0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3a92a4bfa652c1dc16705ece6eff0e') in 0.007311 seconds
+  Import took 0.011290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_259.asset
+  artifactKey: Guid(2280065131630b747bcd0db27397d177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_259.asset using Guid(2280065131630b747bcd0db27397d177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f2e776e770af48f2f990d15ccf252f') in 0.007541 seconds
+  Import took 0.011225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_278.asset
+  artifactKey: Guid(6d06cf3f43742654a9f4671c3dfa9b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_278.asset using Guid(6d06cf3f43742654a9f4671c3dfa9b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f05afbe8d3da02bfd44728aec31fc1') in 0.007327 seconds
+  Import took 0.011281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_221.asset
+  artifactKey: Guid(5909c2ae6c62c2440bd47c4ba3f1e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_221.asset using Guid(5909c2ae6c62c2440bd47c4ba3f1e516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59480d51ea47fe52a1c2798cfd4d4fe3') in 0.008084 seconds
+  Import took 0.012262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_240.asset
+  artifactKey: Guid(6547dce2da015af4f862773922d9350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_240.asset using Guid(6547dce2da015af4f862773922d9350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad338369453482a4e62005262a7c2193') in 0.007752 seconds
+  Import took 0.011522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_271.asset
+  artifactKey: Guid(d12dffa5ab5473a44a68122757cecc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_271.asset using Guid(d12dffa5ab5473a44a68122757cecc38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a70ed582113dff929ee07559b0cc206') in 0.007633 seconds
+  Import took 0.011094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_248.asset
+  artifactKey: Guid(129b07df93667054d96e10c1c554c347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_248.asset using Guid(129b07df93667054d96e10c1c554c347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8716ddbb47e191996d6b8ce1d52e913e') in 0.007775 seconds
+  Import took 0.011595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_258.asset
+  artifactKey: Guid(79e81619cf093bd4dbc1241ccd51d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_258.asset using Guid(79e81619cf093bd4dbc1241ccd51d301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e075a1f086dc2d8ec1cc0ccbf3fa8d4') in 0.007336 seconds
+  Import took 0.011031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_188.asset
+  artifactKey: Guid(3ce92cc0b46099e4ea2e57b8e471ea80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_188.asset using Guid(3ce92cc0b46099e4ea2e57b8e471ea80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0db28d749520ab5a9c45142eb91145') in 0.007894 seconds
+  Import took 0.011619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_266.asset
+  artifactKey: Guid(c1b22f989ca3d31459ee2cf6a74cc68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_266.asset using Guid(c1b22f989ca3d31459ee2cf6a74cc68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4694b696722f5636d42b96242dd751dd') in 0.007485 seconds
+  Import took 0.011357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_249.asset
+  artifactKey: Guid(f66f1f71c13c28a46b54f4fddc89f0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_249.asset using Guid(f66f1f71c13c28a46b54f4fddc89f0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2af558c2715ff1a8225bfbad3cec11b') in 0.007080 seconds
+  Import took 0.010794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_294.asset
+  artifactKey: Guid(4dfbb95522180e7429e3e478acf61529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_294.asset using Guid(4dfbb95522180e7429e3e478acf61529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e993e581583f98eedfe784e710c0e5') in 0.008809 seconds
+  Import took 0.013731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_227.asset
+  artifactKey: Guid(bb3f093a0e24eed46a81fa7a16d3fb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_227.asset using Guid(bb3f093a0e24eed46a81fa7a16d3fb54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d99dd2df72335686c2d569c9789bd6') in 0.007562 seconds
+  Import took 0.011442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_275.asset
+  artifactKey: Guid(a1c1dd4d07e2ebc4fb0082dce11f780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_275.asset using Guid(a1c1dd4d07e2ebc4fb0082dce11f780f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec12f833adfc8234f25be6e4e258bf3b') in 0.009362 seconds
+  Import took 0.013187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_182.asset
+  artifactKey: Guid(2a540756fe668524a958985ae1d97255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_182.asset using Guid(2a540756fe668524a958985ae1d97255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd895a1b5cca7a0d0c8348a054d780a90') in 0.008441 seconds
+  Import took 0.012440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_276.asset
+  artifactKey: Guid(7cc1f537f5e87a44c8d118a2200fd6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_276.asset using Guid(7cc1f537f5e87a44c8d118a2200fd6fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e2a275df7bed4286fd243e246c2a8a') in 0.008579 seconds
+  Import took 0.012687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_230.asset
+  artifactKey: Guid(6a8591a64d5f5d14f88c38180330d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_230.asset using Guid(6a8591a64d5f5d14f88c38180330d98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a6b3341c5eb9a8519a4f9b025e6947') in 0.008959 seconds
+  Import took 0.013215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_243.asset
+  artifactKey: Guid(261069b406fa80d49808bc225d0ee41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_243.asset using Guid(261069b406fa80d49808bc225d0ee41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3533d866ed785217af41231676fda5e6') in 0.009303 seconds
+  Import took 0.014056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_267.asset
+  artifactKey: Guid(8a39c38b0ae7838488b39655796236c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_267.asset using Guid(8a39c38b0ae7838488b39655796236c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aec2a2bbf804d872c8d6fbfaf75b678') in 0.010119 seconds
+  Import took 0.014897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld_300.asset
+  artifactKey: Guid(540770aabd529ed4b97fbc78ac183bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld_300.asset using Guid(540770aabd529ed4b97fbc78ac183bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abce2a464d4b768e1952de7de5be5a78') in 0.008625 seconds
+  Import took 0.013082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.167963 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld.png
+  artifactKey: Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld.png using Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c1ca129faa08d4d8d6898aa047cd985') in 1.373587 seconds
+  Import took 1.382664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 830.626175 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_85.asset
+  artifactKey: Guid(b5ac2b6a2d096d1468c314b19e23ddc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_85.asset using Guid(b5ac2b6a2d096d1468c314b19e23ddc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f240fdb4d177075fb7d4cd905c5b094') in 0.011296 seconds
+  Import took 0.016815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_127.asset
+  artifactKey: Guid(a69ee7ba9f22fd847bb28455ea22e618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_127.asset using Guid(a69ee7ba9f22fd847bb28455ea22e618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8923640901263f320112808aca6d72c8') in 0.006823 seconds
+  Import took 0.012855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_143.asset
+  artifactKey: Guid(ef3f2cfa905b88f42be65808927827c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_143.asset using Guid(ef3f2cfa905b88f42be65808927827c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60815cd1cf8945a76636bc303e6e8fda') in 0.008628 seconds
+  Import took 0.013276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_86.asset
+  artifactKey: Guid(82301d1f2d1bf524688a3e651e049f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_86.asset using Guid(82301d1f2d1bf524688a3e651e049f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787c11fbfa6e01105b1c200446fec946') in 0.006247 seconds
+  Import took 0.010310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_123.asset
+  artifactKey: Guid(78b2e609353e6f144997a30fe051dae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_123.asset using Guid(78b2e609353e6f144997a30fe051dae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b2144847b1aa1dff9015236015de79') in 0.009437 seconds
+  Import took 0.014288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_145.asset
+  artifactKey: Guid(97e358685fae0114bba5ce3add897240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_145.asset using Guid(97e358685fae0114bba5ce3add897240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b685677214d7168c4e4deccc3631b6e') in 0.007863 seconds
+  Import took 0.012178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_154.asset
+  artifactKey: Guid(9355a8fc785cd284f82ea663fedcbab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_154.asset using Guid(9355a8fc785cd284f82ea663fedcbab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511ce39bbf5860ad297fcdbdddaa3b9d') in 0.007316 seconds
+  Import took 0.011333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_158.asset
+  artifactKey: Guid(9a2d967072eca7b49b0e72f70b23d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_158.asset using Guid(9a2d967072eca7b49b0e72f70b23d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8e93817492e103ace080a2e538710d') in 0.007756 seconds
+  Import took 0.011653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_167.asset
+  artifactKey: Guid(5f6b1ed610f844645a3efae0adb881f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_167.asset using Guid(5f6b1ed610f844645a3efae0adb881f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194a5d14d34d66faf361a95924adb80a') in 0.004877 seconds
+  Import took 0.008985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_95.asset
+  artifactKey: Guid(373be187e41b14a4d93ce465f8395140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_95.asset using Guid(373be187e41b14a4d93ce465f8395140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e9945f78ff88a7b20c164989da4e4b') in 0.008371 seconds
+  Import took 0.012722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_149.asset
+  artifactKey: Guid(4f5c396746a080a43ae15970179c837a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_149.asset using Guid(4f5c396746a080a43ae15970179c837a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0a0f4e5faf6017c0f7beaaa647a3d9') in 0.008330 seconds
+  Import took 0.012469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_112.asset
+  artifactKey: Guid(9870a7ea30ea49e42ba108d5c403f1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_112.asset using Guid(9870a7ea30ea49e42ba108d5c403f1bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb158a866b629a2a1edd3b74231e705') in 0.007034 seconds
+  Import took 0.010972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_148.asset
+  artifactKey: Guid(eb0d5106b2375db4d93d34ef3398d653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_148.asset using Guid(eb0d5106b2375db4d93d34ef3398d653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be877c949da859ee54ac150cdeaf5f3') in 0.004927 seconds
+  Import took 0.008919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_157.asset
+  artifactKey: Guid(f327e52170395e9418b5bf77416518f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_157.asset using Guid(f327e52170395e9418b5bf77416518f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d920ea33892b33c7acc6aedda77a0d6') in 0.008374 seconds
+  Import took 0.012338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_100.asset
+  artifactKey: Guid(7787770e373982f48a7a25ce21153dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_100.asset using Guid(7787770e373982f48a7a25ce21153dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db1f6de64595ec0ba23c0301303f2d6') in 0.007538 seconds
+  Import took 0.012144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_130.asset
+  artifactKey: Guid(eb17d85af88a80a49a67c32cc72bcce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_130.asset using Guid(eb17d85af88a80a49a67c32cc72bcce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f62040050eb64422d9b85eae72b7d45') in 0.005263 seconds
+  Import took 0.009372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_120.asset
+  artifactKey: Guid(89ca3135f5a3bb2468bfaafbaf860912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_120.asset using Guid(89ca3135f5a3bb2468bfaafbaf860912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0be895b2e27f73de45013ce6d443ac0') in 0.007336 seconds
+  Import took 0.011230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_136.asset
+  artifactKey: Guid(ec88017d802a6374dbeb353d731638c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_136.asset using Guid(ec88017d802a6374dbeb353d731638c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333b56a90190e7a7b16a6816db95a025') in 0.005126 seconds
+  Import took 0.009221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_165.asset
+  artifactKey: Guid(60ac9298d9c107f42b6310df74d247e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_165.asset using Guid(60ac9298d9c107f42b6310df74d247e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c869eaa1ea21db0e5f909795775cb5ce') in 0.006760 seconds
+  Import took 0.010637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_115.asset
+  artifactKey: Guid(bee12d209df69924ba41868eb0565f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_115.asset using Guid(bee12d209df69924ba41868eb0565f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d8b0e7d9cae9e9fcffb280ea80150bf') in 0.008433 seconds
+  Import took 0.013376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_159.asset
+  artifactKey: Guid(aef3071fb70a6ff47990013687df1be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_159.asset using Guid(aef3071fb70a6ff47990013687df1be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c4a46cdb7828620f9bb11efc868576') in 0.008762 seconds
+  Import took 0.012852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_107.asset
+  artifactKey: Guid(bb83e92f77d7f9a4f9767aa70f403279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_107.asset using Guid(bb83e92f77d7f9a4f9767aa70f403279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c05aa2ed5a3f83a28d4dfe43bf699da') in 0.005261 seconds
+  Import took 0.009191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_162.asset
+  artifactKey: Guid(e3f77e906d8449649a585fcdf4464889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_162.asset using Guid(e3f77e906d8449649a585fcdf4464889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ed91669b1f3fabbe945d1de0392d23') in 0.007737 seconds
+  Import took 0.011886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_101.asset
+  artifactKey: Guid(aa8c93a65dd3a2d4b95c95af452f9f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_101.asset using Guid(aa8c93a65dd3a2d4b95c95af452f9f09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40d1c9361d3223d2996de0015b09755') in 0.007556 seconds
+  Import took 0.011462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_140.asset
+  artifactKey: Guid(4d261151db325604cb9d43c1c5bfd3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_140.asset using Guid(4d261151db325604cb9d43c1c5bfd3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6f7321205e582ac405129897250d63') in 0.004711 seconds
+  Import took 0.008440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_132.asset
+  artifactKey: Guid(393acdc35d4f14a4ebf73debbcbbac6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_132.asset using Guid(393acdc35d4f14a4ebf73debbcbbac6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785696b74b9cdada142f7ce4a8339152') in 0.008198 seconds
+  Import took 0.012152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_166.asset
+  artifactKey: Guid(a14d6a371235cfd41b1f49dd988c82a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_166.asset using Guid(a14d6a371235cfd41b1f49dd988c82a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5b90077ca394f90783c43a7e9614638') in 0.007104 seconds
+  Import took 0.010786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_128.asset
+  artifactKey: Guid(3e0eed7b61c288b438a28bae62ae74f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_128.asset using Guid(3e0eed7b61c288b438a28bae62ae74f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7500d3722f522bec4be0ed311899b055') in 0.008395 seconds
+  Import took 0.012390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_138.asset
+  artifactKey: Guid(08ea96bbfbbf38f4f9fa684c251a4150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_138.asset using Guid(08ea96bbfbbf38f4f9fa684c251a4150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625a3fde3370955aa11990c3452c5ad9') in 0.007310 seconds
+  Import took 0.011080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_172.asset
+  artifactKey: Guid(a405283685ec5c94ea4e9886d2e6d49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_172.asset using Guid(a405283685ec5c94ea4e9886d2e6d49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9337bbb3526c8c65284cd541c8cb6465') in 0.006777 seconds
+  Import took 0.010428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_99.asset
+  artifactKey: Guid(8022399b728a4124fb77ac307bdf960e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_99.asset using Guid(8022399b728a4124fb77ac307bdf960e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d90dd2232f686b493a88cedf9beee3') in 0.008505 seconds
+  Import took 0.012351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_152.asset
+  artifactKey: Guid(54a858208f97277409d3a0a80c16dd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_152.asset using Guid(54a858208f97277409d3a0a80c16dd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1285b44572837af7980285cdd91c8555') in 0.007331 seconds
+  Import took 0.011009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_92.asset
+  artifactKey: Guid(944355d3eb1bc514e8a7c4fb5ad91979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_92.asset using Guid(944355d3eb1bc514e8a7c4fb5ad91979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9b9911c525c53d7bfbdddd0991c2ab3') in 0.007474 seconds
+  Import took 0.011235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_126.asset
+  artifactKey: Guid(8b3ba1ce6dbf5c04eb52db0a89af2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_126.asset using Guid(8b3ba1ce6dbf5c04eb52db0a89af2e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c46bbfe4c4f5109de084cfff9efcb3') in 0.006548 seconds
+  Import took 0.010268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_147.asset
+  artifactKey: Guid(3af4a4848bf51c94787514d33d56a531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_147.asset using Guid(3af4a4848bf51c94787514d33d56a531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de441e7a8c80a2dd110bd5d47de3c213') in 0.007414 seconds
+  Import took 0.011089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_90.asset
+  artifactKey: Guid(46afb8e28a82826438a21ee2810aaf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_90.asset using Guid(46afb8e28a82826438a21ee2810aaf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196eb7fb46ae159914af6f09d255c063') in 0.007848 seconds
+  Import took 0.011612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_153.asset
+  artifactKey: Guid(4d4c04c8d6c789f44941847b1e4e0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_153.asset using Guid(4d4c04c8d6c789f44941847b1e4e0390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b651a4f9dc382fe3b0be7e91636b260') in 0.006789 seconds
+  Import took 0.010595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_111.asset
+  artifactKey: Guid(33b530f17bbe3c94095288d4206c4153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_111.asset using Guid(33b530f17bbe3c94095288d4206c4153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2ea1d52759279188948e347f0f19ae') in 0.006832 seconds
+  Import took 0.010706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_102.asset
+  artifactKey: Guid(9b20be6c4d3a8d6488a8e30f854a5c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_102.asset using Guid(9b20be6c4d3a8d6488a8e30f854a5c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de233e2c529d827a4fc7d8bc24db7ec5') in 0.008125 seconds
+  Import took 0.011970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_97.asset
+  artifactKey: Guid(e2ce08f25e3591743a0aa1674ac4c1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_97.asset using Guid(e2ce08f25e3591743a0aa1674ac4c1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2f6ea0bed491c2a5668063df5dcafb') in 0.007304 seconds
+  Import took 0.011386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_144.asset
+  artifactKey: Guid(b4e0adc7532c1fc42a5472477d7c5f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_144.asset using Guid(b4e0adc7532c1fc42a5472477d7c5f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f98bae54fc2252c96fb588e3da3b383') in 0.004734 seconds
+  Import took 0.008448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_168.asset
+  artifactKey: Guid(2f57f8cc2c69f624699f712dbb809761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_168.asset using Guid(2f57f8cc2c69f624699f712dbb809761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a075cda536be08a2e638e8d02efde70') in 0.004827 seconds
+  Import took 0.008672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_110.asset
+  artifactKey: Guid(8db325ad77b586b4e99c38e17be3db73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_110.asset using Guid(8db325ad77b586b4e99c38e17be3db73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e48bcf893af066b6a6162ba32edd66') in 0.004849 seconds
+  Import took 0.008344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_121.asset
+  artifactKey: Guid(22138a3ce9a5828459214609ef470167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_121.asset using Guid(22138a3ce9a5828459214609ef470167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d28b3de4844723668766b31c0dd04e0') in 0.004778 seconds
+  Import took 0.008490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_88.asset
+  artifactKey: Guid(71533898a50d72f48bfe79c08b15a038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_88.asset using Guid(71533898a50d72f48bfe79c08b15a038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589bb262a6bdbf85e3dd7e468f366e07') in 0.008829 seconds
+  Import took 0.012557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_133.asset
+  artifactKey: Guid(d38355c895aa37b48a23ac28f97aec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_133.asset using Guid(d38355c895aa37b48a23ac28f97aec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17121b17006e20eef2e65730acccc42b') in 0.007562 seconds
+  Import took 0.011228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_137.asset
+  artifactKey: Guid(49db89ef2aec9ac4f944d01d5ecaeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_137.asset using Guid(49db89ef2aec9ac4f944d01d5ecaeb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d6ace3b321eb6831bee36e08e5ac9f6') in 0.008438 seconds
+  Import took 0.012467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_122.asset
+  artifactKey: Guid(b66b6053c7ef5c7439907e96277623d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_122.asset using Guid(b66b6053c7ef5c7439907e96277623d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6da8fa585592eeaeba83a6f712174f4') in 0.007754 seconds
+  Import took 0.011540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_171.asset
+  artifactKey: Guid(66afe8bbc5713704a8cec0e8062526d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_171.asset using Guid(66afe8bbc5713704a8cec0e8062526d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7588348eccfebe891a565e18f4516a31') in 0.009086 seconds
+  Import took 0.012970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_98.asset
+  artifactKey: Guid(d56cc3e582fe5354eaa159525953f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_98.asset using Guid(d56cc3e582fe5354eaa159525953f2db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce857790d9939904edd8099cb89d4f42') in 0.005489 seconds
+  Import took 0.009403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_146.asset
+  artifactKey: Guid(6111f6b95c07ed442be33dd73265ac1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_146.asset using Guid(6111f6b95c07ed442be33dd73265ac1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45dcf85634670f3916f5f7a0fe36d3e') in 0.007763 seconds
+  Import took 0.011684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_163.asset
+  artifactKey: Guid(96dacb5d013a7c24dbf8a70d4d1a984e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_163.asset using Guid(96dacb5d013a7c24dbf8a70d4d1a984e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9009797ab6e02ca54cde85ab0bc8cafc') in 0.009943 seconds
+  Import took 0.014656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_124.asset
+  artifactKey: Guid(cfbf8d3482b70b342a8c5815fa13089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_124.asset using Guid(cfbf8d3482b70b342a8c5815fa13089d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16c18aa67a02f41f0bf4b53ff7cbe38') in 0.006958 seconds
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_134.asset
+  artifactKey: Guid(34260cbf007a2eb4d80a34a38a074e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_134.asset using Guid(34260cbf007a2eb4d80a34a38a074e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f934f850d315fc6a662c0204d51cba6') in 0.008648 seconds
+  Import took 0.012531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_142.asset
+  artifactKey: Guid(aa3184db04be46446872f0d3a87859f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_142.asset using Guid(aa3184db04be46446872f0d3a87859f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70ee84e490adf2a2dd81239472319ca') in 0.005021 seconds
+  Import took 0.008705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_173.asset
+  artifactKey: Guid(1fa169cddcbb8d54db05bb73a99c9894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_173.asset using Guid(1fa169cddcbb8d54db05bb73a99c9894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c37e24c5d32982c4904564621368780') in 0.004999 seconds
+  Import took 0.008591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_135.asset
+  artifactKey: Guid(23ff05da37c57594282e52249149d350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_135.asset using Guid(23ff05da37c57594282e52249149d350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7acc4a45f72f107b5e2bc329d22ec2a9') in 0.007176 seconds
+  Import took 0.010988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_139.asset
+  artifactKey: Guid(4361a69d5ac047d409675a4f41a8e215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_139.asset using Guid(4361a69d5ac047d409675a4f41a8e215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e7f9f276bd2d1148776bf15921e916') in 0.007529 seconds
+  Import took 0.011728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_151.asset
+  artifactKey: Guid(65aa63f4a39025f439b38effe347e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_151.asset using Guid(65aa63f4a39025f439b38effe347e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac13fec60087b94ce996033e7378c29') in 0.006966 seconds
+  Import took 0.011123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_93.asset
+  artifactKey: Guid(6141965b81d45054aa89b037b83f553d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_93.asset using Guid(6141965b81d45054aa89b037b83f553d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b86b8375bd11732522a45423e25d85f') in 0.004819 seconds
+  Import took 0.008438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_150.asset
+  artifactKey: Guid(a081525db59525e4980f239bf62440c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_150.asset using Guid(a081525db59525e4980f239bf62440c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604f10dff50d462b629a684bae157448') in 0.006407 seconds
+  Import took 0.009856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_89.asset
+  artifactKey: Guid(854e537aeadf7c24f85e3be234c59f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_89.asset using Guid(854e537aeadf7c24f85e3be234c59f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601f30c60742d8f1b15fd79962413516') in 0.004947 seconds
+  Import took 0.008602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_103.asset
+  artifactKey: Guid(498abff0c4b4e934ca4991de0d285099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_103.asset using Guid(498abff0c4b4e934ca4991de0d285099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cfc076dfa8164c2161e0f2e2eb8b39') in 0.007349 seconds
+  Import took 0.011177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_116.asset
+  artifactKey: Guid(38f23b45cdf1604478e9237f0cbf114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_116.asset using Guid(38f23b45cdf1604478e9237f0cbf114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4f1cf206ef10d29f5bb02bd12731a4') in 0.007883 seconds
+  Import took 0.011607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_164.asset
+  artifactKey: Guid(27f2ac1f210059248abb26df35268f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_164.asset using Guid(27f2ac1f210059248abb26df35268f39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaf5ce2cb3e05dae9c21d1778f9a7665') in 0.006794 seconds
+  Import took 0.010396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_113.asset
+  artifactKey: Guid(9302e9d08ff81b94588ad8a5fa7c211b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_113.asset using Guid(9302e9d08ff81b94588ad8a5fa7c211b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc861194d9c0e863d6b59338c7314c4a') in 0.007021 seconds
+  Import took 0.010572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_141.asset
+  artifactKey: Guid(6489fd21725549e41af3e5be4cd78b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_141.asset using Guid(6489fd21725549e41af3e5be4cd78b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eeb7f0766c4a49927a93e4d5189846a') in 0.007029 seconds
+  Import took 0.011054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_160.asset
+  artifactKey: Guid(004408d9fe821354e9e3165cdef59994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_160.asset using Guid(004408d9fe821354e9e3165cdef59994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b5b6ece8f95310f0a56eae413abf00b') in 0.008327 seconds
+  Import took 0.011931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_87.asset
+  artifactKey: Guid(d3b03f2e41e2c5647ad5785663a0367d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_87.asset using Guid(d3b03f2e41e2c5647ad5785663a0367d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ab703bae9221a565bceb0de914dd41') in 0.004678 seconds
+  Import took 0.008526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_96.asset
+  artifactKey: Guid(7fdefeb924d21d540a19936cf2dbb245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_96.asset using Guid(7fdefeb924d21d540a19936cf2dbb245) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad16a63184575183f5ee9980ca177c4d') in 0.007836 seconds
+  Import took 0.011620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_174.asset
+  artifactKey: Guid(505d2743f6e7b1d4783796258a7ba655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_174.asset using Guid(505d2743f6e7b1d4783796258a7ba655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf75a9929bd8813475e46bf797f8d6b') in 0.006643 seconds
+  Import took 0.010217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_104.asset
+  artifactKey: Guid(2de20e7c1ba5ea443bd4f4d883b06a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_104.asset using Guid(2de20e7c1ba5ea443bd4f4d883b06a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b46b6a6aa22f95aa9ee3df659ea173d') in 0.008483 seconds
+  Import took 0.012542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_129.asset
+  artifactKey: Guid(ac7d94418c875774a9ec367a27afb14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_129.asset using Guid(ac7d94418c875774a9ec367a27afb14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '580f4ffb8c2dba960884f2f0b8c77759') in 0.007418 seconds
+  Import took 0.011001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_125.asset
+  artifactKey: Guid(ca05005e82378f648afc56e40fe9d487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_125.asset using Guid(ca05005e82378f648afc56e40fe9d487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e356586a24ac37f05c2d628d70440414') in 0.007647 seconds
+  Import took 0.011488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_114.asset
+  artifactKey: Guid(d891cf27c5715fe49bc268672bbe9b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_114.asset using Guid(d891cf27c5715fe49bc268672bbe9b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6271a076d29b26cc90a021954929b023') in 0.004908 seconds
+  Import took 0.008599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_161.asset
+  artifactKey: Guid(b5f6d1e651c260f418e5eefd81df9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_161.asset using Guid(b5f6d1e651c260f418e5eefd81df9f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab8eff0d25b51dda2917a80caad3220') in 0.007145 seconds
+  Import took 0.011000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_169.asset
+  artifactKey: Guid(56531399e00938a428be1185710fbf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_169.asset using Guid(56531399e00938a428be1185710fbf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4165e8fb41fa3b6160563aa07992c4') in 0.009125 seconds
+  Import took 0.012990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_155.asset
+  artifactKey: Guid(54254a6c98d590a41a5210b5101c356d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_155.asset using Guid(54254a6c98d590a41a5210b5101c356d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15beebded6a087c866dcdb94b7e9e035') in 0.004846 seconds
+  Import took 0.008372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_119.asset
+  artifactKey: Guid(4a3c0b7921c92dc488e56529bc05691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_119.asset using Guid(4a3c0b7921c92dc488e56529bc05691b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1308b5e5422afe18bf0cdcf6f0bca576') in 0.004919 seconds
+  Import took 0.008751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_170.asset
+  artifactKey: Guid(5b09da3dc70395f498553126c0c59973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_170.asset using Guid(5b09da3dc70395f498553126c0c59973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb93489a0e71144db0ac9bd444c4fd8') in 0.007317 seconds
+  Import took 0.011069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_105.asset
+  artifactKey: Guid(07ee3eaba114aad4a8ab3050174c7b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_105.asset using Guid(07ee3eaba114aad4a8ab3050174c7b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8927f4676c41ba29e1b1f493dd30c40e') in 0.006815 seconds
+  Import took 0.010614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_91.asset
+  artifactKey: Guid(55f52bd1306bda54f836e3e9fdce3122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_91.asset using Guid(55f52bd1306bda54f836e3e9fdce3122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fcf20eba99244498d36ff9a6bcd9abc') in 0.007706 seconds
+  Import took 0.011611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_106.asset
+  artifactKey: Guid(79681a4e6d9259b40bc3283441226dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_106.asset using Guid(79681a4e6d9259b40bc3283441226dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28030d5dbf131deb5ca27f0b9d856502') in 0.006955 seconds
+  Import took 0.010736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_109.asset
+  artifactKey: Guid(e8aa30517a3b03e4b82226a4f61402af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_109.asset using Guid(e8aa30517a3b03e4b82226a4f61402af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2584b62f6004f7c1bc3157a04e5dd5b9') in 0.004902 seconds
+  Import took 0.008916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_108.asset
+  artifactKey: Guid(a3eee04645c0e8146b8064f2666b2370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_108.asset using Guid(a3eee04645c0e8146b8064f2666b2370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb946e45a80f0aa3c8696a35f59364c5') in 0.004828 seconds
+  Import took 0.008579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_156.asset
+  artifactKey: Guid(3adfdc295d2bc1842aa9d66107b435b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_156.asset using Guid(3adfdc295d2bc1842aa9d66107b435b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6495e99f43df2284b0f82463b40e1ec3') in 0.007067 seconds
+  Import took 0.010902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_117.asset
+  artifactKey: Guid(e8b077be8d423474793771a5be922e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_117.asset using Guid(e8b077be8d423474793771a5be922e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53e11b5d8be7bb3bbc15f409ca14d99') in 0.007893 seconds
+  Import took 0.011822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_118.asset
+  artifactKey: Guid(9e3228dbcf4b4fd448e5b3cd05847ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_118.asset using Guid(9e3228dbcf4b4fd448e5b3cd05847ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6edebae270adf812a171425ec3031ec6') in 0.007650 seconds
+  Import took 0.011356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_131.asset
+  artifactKey: Guid(2b85ec8c4614fdd4cb741c94b998d707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_131.asset using Guid(2b85ec8c4614fdd4cb741c94b998d707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce76a50c2a6a40d60915038fd10b544') in 0.006717 seconds
+  Import took 0.010571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/ArtNsprites/Map/Tile maps2/Overworld_94.asset
+  artifactKey: Guid(60f944cd6f830a242b765ffe1c5ab181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Tile maps2/Overworld_94.asset using Guid(60f944cd6f830a242b765ffe1c5ab181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060dcbc9489608bc8dd251896b3bd71a') in 0.004939 seconds
+  Import took 0.008982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.434895 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld.png
+  artifactKey: Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld.png using Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99da60c716c07c1a0cc6c7602af27e3d') in 1.129575 seconds
+  Import took 1.138027 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.1 MB.
+System memory in use after: 115.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2895.
+Total: 2.380300 ms (FindLiveObjects: 0.254400 ms CreateObjectMapping: 0.094400 ms MarkObjects: 2.010000 ms  DeleteObjects: 0.020100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005604 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2899.
+Total: 1.975000 ms (FindLiveObjects: 0.208000 ms CreateObjectMapping: 0.082900 ms MarkObjects: 1.669100 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2903.
+Total: 2.230100 ms (FindLiveObjects: 0.238700 ms CreateObjectMapping: 0.082100 ms MarkObjects: 1.893700 ms  DeleteObjects: 0.014800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.114070 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld.png
+  artifactKey: Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld.png using Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681c7b1664c199d762245bf356ec5a88') in 1.140026 seconds
+  Import took 1.148082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.882249 seconds.
+  path: Assets/ArtNsprites/Map/Outside/Overworld.png
+  artifactKey: Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArtNsprites/Map/Outside/Overworld.png using Guid(451c565171e8ce24794223bcd56709b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681c7b1664c199d762245bf356ec5a88') in 1.421129 seconds
+  Import took 1.430684 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.891 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.4 MB.
+System memory in use after: 115.6 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2908.
+Total: 1.998400 ms (FindLiveObjects: 0.206500 ms CreateObjectMapping: 0.085300 ms MarkObjects: 1.691500 ms  DeleteObjects: 0.014400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

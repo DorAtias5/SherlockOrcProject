@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: cf29d1e0c72e04c4bb9f404659f82f57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7408880715557248461
+    second: sherlock pjama_0
+  - first:
+      213: -4770002019884526637
+    second: sherlock pjama_1
+  - first:
+      213: 1442654684205099687
+    second: sherlock pjama_2
+  - first:
+      213: -5589029316423205324
+    second: sherlock pjama_3
+  - first:
+      213: 3197622724576800864
+    second: sherlock pjama_4
+  - first:
+      213: -942793801676733883
+    second: sherlock pjama_5
+  - first:
+      213: -5983817747435913389
+    second: sherlock pjama_6
+  - first:
+      213: 5940334436212961159
+    second: sherlock pjama_7
+  - first:
+      213: -6031394800168819328
+    second: sherlock pjama_8
+  - first:
+      213: 1232303998549766166
+    second: sherlock pjama_9
+  - first:
+      213: 4922968939810227518
+    second: sherlock pjama_10
+  - first:
+      213: 6652015453032144614
+    second: sherlock pjama_11
+  - first:
+      213: -3078915752212048959
+    second: sherlock pjama_12
+  - first:
+      213: -3571461145637966333
+    second: sherlock pjama_13
+  - first:
+      213: -7437917141868783386
+    second: sherlock pjama_14
+  - first:
+      213: -4176568731092936737
+    second: sherlock pjama_15
+  - first:
+      213: 4053596991231403593
+    second: sherlock pjama_16
+  - first:
+      213: -8950815277636124720
+    second: sherlock pjama_17
+  - first:
+      213: -7046962584190920564
+    second: sherlock pjama_18
+  - first:
+      213: 985212491454911171
+    second: sherlock pjama_19
+  - first:
+      213: 8778295061591050675
+    second: sherlock pjama_20
+  - first:
+      213: 686895115036618279
+    second: sherlock pjama_21
+  - first:
+      213: -3480759180411631103
+    second: sherlock pjama_22
+  - first:
+      213: 5832951210153525485
+    second: sherlock pjama_23
+  - first:
+      213: -2066278313035486057
+    second: sherlock pjama_24
+  - first:
+      213: 1851846894330153740
+    second: sherlock pjama_25
+  - first:
+      213: -3430475109685690195
+    second: sherlock pjama_26
+  - first:
+      213: 6123094113938625141
+    second: sherlock pjama_27
+  - first:
+      213: 5627195194703553276
+    second: sherlock pjama_28
+  - first:
+      213: -6694603490442881213
+    second: sherlock pjama_29
+  - first:
+      213: -2289755865451618000
+    second: sherlock pjama_30
+  - first:
+      213: 3731562035000332068
+    second: sherlock pjama_31
+  - first:
+      213: -7579269969020729328
+    second: sherlock pjama_32
+  - first:
+      213: -2101101047201175989
+    second: sherlock pjama_33
+  - first:
+      213: 7360892683701930827
+    second: sherlock pjama_34
+  - first:
+      213: -7850725225446012221
+    second: sherlock pjama_35
+  - first:
+      213: 8935440157820816926
+    second: sherlock pjama_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sherlock pjama_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 265
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1802c1c1a1d660800000000000000
+      internalID: 7408880715557248461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 265
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d313ea7f6c8dcdb0800000000000000
+      internalID: -4770002019884526637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 265
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2991bac6550410800000000000000
+      internalID: 1442654684205099687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb95bd277cf62b0800000000000000
+      internalID: -5589029316423205324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 268
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060fd102dec306c20800000000000000
+      internalID: 3197622724576800864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 277
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5424e9258068ae2f0800000000000000
+      internalID: -942793801676733883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 228
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f776b567535fca0800000000000000
+      internalID: -5983817747435913389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6e7d42be407250800000000000000
+      internalID: 5940334436212961159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 234
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085accb826e2c4ca0800000000000000
+      internalID: -6031394800168819328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 234
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6103ad825f50a1110800000000000000
+      internalID: 1232303998549766166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 234
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358ba1fa26e15440800000000000000
+      internalID: 4922968939810227518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 223
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed3668fc4b05c50800000000000000
+      internalID: 6652015453032144614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3db08af6e7545d0800000000000000
+      internalID: -3078915752212048959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ea32da20f9f6ec0800000000000000
+      internalID: -3571461145637966333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85f1a64c537c890800000000000000
+      internalID: -7437917141868783386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd793331ed8d906c0800000000000000
+      internalID: -4176568731092936737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 202
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a0f49cf4414830800000000000000
+      internalID: 4053596991231403593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dffb5eade058c380800000000000000
+      internalID: -8950815277636124720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d4d7bdd8243e90800000000000000
+      internalID: -7046962584190920564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c292758a8d2cad00800000000000000
+      internalID: 985212491454911171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 171
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b943bf59d4c2d970800000000000000
+      internalID: 8778295061591050675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 139
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e65b1c777588900800000000000000
+      internalID: 686895115036618279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 137
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a82ee97fbd1bfc0800000000000000
+      internalID: -3480759180411631103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0c269a83ec2f050800000000000000
+      internalID: 5832951210153525485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 135
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2d6862da1353e0800000000000000
+      internalID: -2066278313035486057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 107
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b85fa50f413b910800000000000000
+      internalID: 1851846894330153740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 106
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da08d5c20118460d0800000000000000
+      internalID: -3430475109685690195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 107
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d893b7a999f450800000000000000
+      internalID: 6123094113938625141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 107
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf227162730d71e40800000000000000
+      internalID: 5627195194703553276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347df00589df713a0800000000000000
+      internalID: -6694603490442881213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a3690c272930e0800000000000000
+      internalID: -2289755865451618000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f478176eb29c330800000000000000
+      internalID: 3731562035000332068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018cbbfae1601d690800000000000000
+      internalID: -7579269969020729328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466f5ccab367d2e0800000000000000
+      internalID: -2101101047201175989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b43d965e4272660800000000000000
+      internalID: 7360892683701930827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca871c900f9c0390800000000000000
+      internalID: -7850725225446012221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlock pjama_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e8ba64b7f010c70800000000000000
+      internalID: 8935440157820816926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

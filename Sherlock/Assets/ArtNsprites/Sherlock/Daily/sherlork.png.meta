@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 9818fbfd8db1bec40b6de0e6f03d6b7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6164206178047811297
+    second: sherlork_0
+  - first:
+      213: 5645510655564978155
+    second: sherlork_1
+  - first:
+      213: 7082019645911523114
+    second: sherlork_2
+  - first:
+      213: 3435642079197939721
+    second: sherlork_3
+  - first:
+      213: -6313959872695848060
+    second: sherlork_4
+  - first:
+      213: 8120161514373529943
+    second: sherlork_5
+  - first:
+      213: 1417020490412629475
+    second: sherlork_6
+  - first:
+      213: 3794192374317305204
+    second: sherlork_7
+  - first:
+      213: 6417759372432673735
+    second: sherlork_8
+  - first:
+      213: -5248485764398717265
+    second: sherlork_9
+  - first:
+      213: -920647415573576190
+    second: sherlork_10
+  - first:
+      213: -3190693262289235037
+    second: sherlork_11
+  - first:
+      213: -7008303928891503693
+    second: sherlork_12
+  - first:
+      213: 8255990385728143945
+    second: sherlork_13
+  - first:
+      213: -2577152184595038435
+    second: sherlork_14
+  - first:
+      213: 8097771521371587077
+    second: sherlork_15
+  - first:
+      213: -7822710969331064195
+    second: sherlork_16
+  - first:
+      213: -233109801181390
+    second: sherlork_17
+  - first:
+      213: -3708401530867087977
+    second: sherlork_18
+  - first:
+      213: 5991017088439382300
+    second: sherlork_19
+  - first:
+      213: 7729569087715007910
+    second: sherlork_20
+  - first:
+      213: -4914467080211015711
+    second: sherlork_21
+  - first:
+      213: -3773196028521483995
+    second: sherlork_22
+  - first:
+      213: -7712679689074141345
+    second: sherlork_23
+  - first:
+      213: -4596448172857921329
+    second: sherlork_24
+  - first:
+      213: 4313014073790043411
+    second: sherlork_25
+  - first:
+      213: -7175134720751761833
+    second: sherlork_26
+  - first:
+      213: 4729742241860671190
+    second: sherlork_27
+  - first:
+      213: -6929407563107254098
+    second: sherlork_28
+  - first:
+      213: -9148782031308959680
+    second: sherlork_29
+  - first:
+      213: -8445153190103392280
+    second: sherlork_30
+  - first:
+      213: 4739409032667406054
+    second: sherlork_31
+  - first:
+      213: 270673143140300721
+    second: sherlork_32
+  - first:
+      213: -7482745629615380503
+    second: sherlork_33
+  - first:
+      213: -1510896483494977742
+    second: sherlork_34
+  - first:
+      213: -3439496762196652813
+    second: sherlork_35
+  - first:
+      213: -7972724182565511149
+    second: sherlork_36
+  - first:
+      213: 3474925127723541704
+    second: sherlork_37
+  - first:
+      213: 2263665711643800567
+    second: sherlork_38
+  - first:
+      213: -3421207061608713769
+    second: sherlork_39
+  - first:
+      213: 4547841086173764981
+    second: sherlork_40
+  - first:
+      213: 4361873489606629382
+    second: sherlork_41
+  - first:
+      213: 2146803863314164724
+    second: sherlork_42
+  - first:
+      213: 954569179815103585
+    second: sherlork_43
+  - first:
+      213: -6215953741720872249
+    second: sherlork_44
+  - first:
+      213: 1666334557761975743
+    second: sherlork_45
+  - first:
+      213: 4124886851456974752
+    second: sherlork_46
+  - first:
+      213: -502000487756536670
+    second: sherlork_47
+  - first:
+      213: 4204135634554379558
+    second: sherlork_48
+  - first:
+      213: -7975190806016847226
+    second: sherlork_49
+  - first:
+      213: -5829968963279605634
+    second: sherlork_50
+  - first:
+      213: -5213393635100120486
+    second: sherlork_51
+  - first:
+      213: 6017621114003783935
+    second: sherlork_52
+  - first:
+      213: 4086775148064062788
+    second: sherlork_53
+  - first:
+      213: -3037522844812950571
+    second: sherlork_54
+  - first:
+      213: 2345355019190047977
+    second: sherlork_55
+  - first:
+      213: 5449080210598532994
+    second: sherlork_56
+  - first:
+      213: -5389599167963873184
+    second: sherlork_57
+  - first:
+      213: 478385191705979658
+    second: sherlork_58
+  - first:
+      213: -1404802749793308941
+    second: sherlork_59
+  - first:
+      213: 8187838497193310887
+    second: sherlork_60
+  - first:
+      213: 3301882591859045450
+    second: sherlork_61
+  - first:
+      213: -40223574114763596
+    second: sherlork_62
+  - first:
+      213: -452320357595880804
+    second: sherlork_63
+  - first:
+      213: -1024417185746792804
+    second: sherlork_64
+  - first:
+      213: 1259698749984374166
+    second: sherlork_65
+  - first:
+      213: 635743162068251943
+    second: sherlork_66
+  - first:
+      213: -5160496382940130248
+    second: sherlork_67
+  - first:
+      213: 1926504123842683034
+    second: sherlork_68
+  - first:
+      213: 39817252975432189
+    second: sherlork_69
+  - first:
+      213: -1279583742671893562
+    second: sherlork_70
+  - first:
+      213: 9012949212628180120
+    second: sherlork_71
+  - first:
+      213: -8327906769858803059
+    second: sherlork_72
+  - first:
+      213: 7190714600989978644
+    second: sherlork_73
+  - first:
+      213: -7822531154121864767
+    second: sherlork_74
+  - first:
+      213: -5378420774662908077
+    second: sherlork_75
+  - first:
+      213: 6977985179253198377
+    second: sherlork_76
+  - first:
+      213: 6753693802424506105
+    second: sherlork_77
+  - first:
+      213: -7282049517469622492
+    second: sherlork_78
+  - first:
+      213: 8265373340173053550
+    second: sherlork_79
+  - first:
+      213: 8464181699940386193
+    second: sherlork_80
+  - first:
+      213: 3484764886731788102
+    second: sherlork_81
+  - first:
+      213: 6388719494745780212
+    second: sherlork_82
+  - first:
+      213: 4033290135773316882
+    second: sherlork_83
+  - first:
+      213: -3136182490957088040
+    second: sherlork_84
+  - first:
+      213: -7385588785180888156
+    second: sherlork_85
+  - first:
+      213: 403661589949571389
+    second: sherlork_86
+  - first:
+      213: -3472620046594560647
+    second: sherlork_87
+  - first:
+      213: -2334651021757867659
+    second: sherlork_88
+  - first:
+      213: 8072101461956419889
+    second: sherlork_89
+  - first:
+      213: 273381097648934936
+    second: sherlork_90
+  - first:
+      213: -5846062925530056990
+    second: sherlork_91
+  - first:
+      213: -2091165171679867807
+    second: sherlork_92
+  - first:
+      213: -2755643867427080739
+    second: sherlork_93
+  - first:
+      213: -3992431124631720761
+    second: sherlork_94
+  - first:
+      213: 700685783343612889
+    second: sherlork_95
+  - first:
+      213: -4582729050836729828
+    second: sherlork_96
+  - first:
+      213: 2357496074547127754
+    second: sherlork_97
+  - first:
+      213: -8898350295905242984
+    second: sherlork_98
+  - first:
+      213: -3321436311943174904
+    second: sherlork_99
+  - first:
+      213: 7324948454382001923
+    second: sherlork_100
+  - first:
+      213: -2697762198802191842
+    second: sherlork_101
+  - first:
+      213: 2542864202659763823
+    second: sherlork_102
+  - first:
+      213: 3057208644737727754
+    second: sherlork_103
+  - first:
+      213: -252326497977055432
+    second: sherlork_104
+  - first:
+      213: -1330768703042537521
+    second: sherlork_105
+  - first:
+      213: -1482948372494903326
+    second: sherlork_106
+  - first:
+      213: -3642995728032721674
+    second: sherlork_107
+  - first:
+      213: 1452769794923864089
+    second: sherlork_108
+  - first:
+      213: 5303535149814145090
+    second: sherlork_109
+  - first:
+      213: -1304075307341198106
+    second: sherlork_110
+  - first:
+      213: 8754779282021809788
+    second: sherlork_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sherlork_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112133f327547aa0800000000000000
+      internalID: -6164206178047811297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 266
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be712a0b702e85e40800000000000000
+      internalID: 5645510655564978155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 266
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd4e68853684260800000000000000
+      internalID: 7082019645911523114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 266
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084af9a44addaf20800000000000000
+      internalID: 3435642079197939721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b4e5d2fe4068a0800000000000000
+      internalID: -6313959872695848060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 234
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514807ffdb90b070800000000000000
+      internalID: 8120161514373529943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 234
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed9e7ad0a44aa310800000000000000
+      internalID: 1417020490412629475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 234
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dcda8acdda7a430800000000000000
+      internalID: 3794192374317305204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb88cf7526701950800000000000000
+      internalID: 6417759372432673735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e1544102a927b0800000000000000
+      internalID: -5248485764398717265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2060b57ad043933f0800000000000000
+      internalID: -920647415573576190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 202
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3940a026168b3d0800000000000000
+      internalID: -3190693262289235037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb827055b08dbe90800000000000000
+      internalID: -7008303928891503693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 170
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942cd52838b239270800000000000000
+      internalID: 8255990385728143945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f37111ebd1c3cd0800000000000000
+      internalID: -2577152184595038435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 170
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502c0ab7b40116070800000000000000
+      internalID: 8097771521371587077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 139
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726874e1d5207390800000000000000
+      internalID: -7822710969331064195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 137
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f5b15ecfb2ffff0800000000000000
+      internalID: -233109801181390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950724a47c198cc0800000000000000
+      internalID: -3708401530867087977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 135
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1179b7dc4e542350800000000000000
+      internalID: 5991017088439382300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6add71cd122f44b60800000000000000
+      internalID: 7729569087715007910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7dbaf7a3e4ccbb0800000000000000
+      internalID: -4914467080211015711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 106
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ff0c043ae2abc0800000000000000
+      internalID: -3773196028521483995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 105
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579d52bfae07f490800000000000000
+      internalID: -7712679689074141345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07f446db22630c0800000000000000
+      internalID: -4596448172857921329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 74
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151483e277eadb30800000000000000
+      internalID: 4313014073790043411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756050aacfccc6c90800000000000000
+      internalID: -7175134720751761833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d34d728b63a140800000000000000
+      internalID: 4729742241860671190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 42
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04611f88cc5df90800000000000000
+      internalID: -6929407563107254098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405a50073ff80180800000000000000
+      internalID: -9148782031308959680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef512efae9ccca80800000000000000
+      internalID: -8445153190103392280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1b6d9763c5c140800000000000000
+      internalID: 4739409032667406054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
