@@ -63,7 +63,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 12be4b67471ed3a4da67c9cd9d89013a, type: 2}
+    m_Motion: {fileID: 7400000, guid: 792b544124332304891bbd34f6129021, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: -1}
     m_TimeScale: 1
@@ -71,7 +71,7 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 6555e16f248e6034fa993d764cee19f8, type: 2}
+    m_Motion: {fileID: 7400000, guid: bd7c45e759d7bab4e8bce0893888b84b, type: 2}
     m_Threshold: 0.33333334
     m_Position: {x: 0, y: 1}
     m_TimeScale: 1
@@ -79,7 +79,7 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: a643b88b4495e0c4cad71f57e46de4df, type: 2}
+    m_Motion: {fileID: 7400000, guid: 54db85cace6d0e2488c97f8269bd5c07, type: 2}
     m_Threshold: 0.6666667
     m_Position: {x: -1, y: 0}
     m_TimeScale: 1
@@ -87,7 +87,7 @@ BlendTree:
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: dc556754b13d12f43b6083c9c2879590, type: 2}
+    m_Motion: {fileID: 7400000, guid: 23b32c122e0e0a64b80b2e657efcc495, type: 2}
     m_Threshold: 1
     m_Position: {x: 1, y: 0}
     m_TimeScale: 1
@@ -165,37 +165,37 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: moveX
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: moveY
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: isMoving
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: isAttacking
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: isHoldingItem
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -504,21 +504,14 @@ AnimatorStateMachine:
     m_Position: {x: 110, y: 400, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 412077735837005792}
-    m_Position: {x: 380, y: 260, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: -7378914414814122087}
-    m_Position: {x: 240, y: 180, z: 0}
-  - serializedVersion: 1
-    m_State: {fileID: 5691622494351857733}
-    m_Position: {x: 275, y: 245, z: 0}
+    m_Position: {x: 400, y: 270, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions:
   - {fileID: -1482455155867612105}
-  - {fileID: 2135069193228571543}
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 400, y: 100, z: 0}
+  m_AnyStatePosition: {x: 430, y: 100, z: 0}
   m_EntryPosition: {x: 130, y: 90, z: 0}
   m_ExitPosition: {x: 180, y: -20, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}

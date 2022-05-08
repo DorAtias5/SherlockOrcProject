@@ -40,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
     private bool haveBow;
     public GameObject arrowProj;
 
+    public PlayerHealth playerHealth;
 
     void Start()
     {
@@ -60,9 +61,10 @@ public class PlayerMovement : MonoBehaviour
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
         UpdateAnimationAndMove();
-        //if (currentState == PlayerState.walk || currentState == PlayerState.idle) { 
-        //    PlayAnimationsAndMove(); 
-        // }
+        if (currentState == PlayerState.walk || currentState == PlayerState.idle) { 
+            PlayAnimationsAndMove(); 
+         }
+
     }
     void UpdateAnimationAndMove()
     {
@@ -102,6 +104,10 @@ public class PlayerMovement : MonoBehaviour
             {
                 StartCoroutine(SecondAttackCo());
             }
+        }
+        if(playerHealth.currHp <= 0)
+        {
+            this.gameObject.SetActive(false);
         }
     }
     void MoveCharacter()
