@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: d8016969d9850884599797cc18fc5148
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2269414758657633629
+    second: sherlork assistent_0
+  - first:
+      213: -8023865558971757641
+    second: sherlork assistent_1
+  - first:
+      213: -5669782927378267176
+    second: sherlork assistent_2
+  - first:
+      213: 7498101026730720450
+    second: sherlork assistent_3
+  - first:
+      213: -5239789410740917411
+    second: sherlork assistent_4
+  - first:
+      213: -1796342905531437790
+    second: sherlork assistent_5
+  - first:
+      213: 3795722276807463882
+    second: sherlork assistent_6
+  - first:
+      213: 5886536595992686835
+    second: sherlork assistent_7
+  - first:
+      213: -5778125738298280361
+    second: sherlork assistent_8
+  - first:
+      213: 2626097160350795397
+    second: sherlork assistent_9
+  - first:
+      213: 4824547507419660386
+    second: sherlork assistent_10
+  - first:
+      213: -5885530153940520115
+    second: sherlork assistent_11
+  - first:
+      213: -4261753461595808698
+    second: sherlork assistent_12
+  - first:
+      213: 8901226106699194193
+    second: sherlork assistent_13
+  - first:
+      213: 2222057729890031697
+    second: sherlork assistent_14
+  - first:
+      213: -8330771947065213758
+    second: sherlork assistent_15
+  - first:
+      213: -9187953915541234032
+    second: sherlork assistent_16
+  - first:
+      213: -4268787985717005880
+    second: sherlork assistent_17
+  - first:
+      213: -3499730923824124834
+    second: sherlork assistent_18
+  - first:
+      213: 3854374515035656453
+    second: sherlork assistent_19
+  - first:
+      213: -7131957513612849372
+    second: sherlork assistent_20
+  - first:
+      213: -6784451102079853972
+    second: sherlork assistent_21
+  - first:
+      213: -6079355010448608915
+    second: sherlork assistent_22
+  - first:
+      213: 3805855747486806552
+    second: sherlork assistent_23
+  - first:
+      213: -2929680206667266372
+    second: sherlork assistent_24
+  - first:
+      213: -7529627905721073854
+    second: sherlork assistent_25
+  - first:
+      213: 6368547690243433343
+    second: sherlork assistent_26
+  - first:
+      213: 6467359558138260965
+    second: sherlork assistent_27
+  - first:
+      213: 7969335884611946611
+    second: sherlork assistent_28
+  - first:
+      213: 6365096024040375688
+    second: sherlork assistent_29
+  - first:
+      213: 6811160044382545165
+    second: sherlork assistent_30
+  - first:
+      213: 3110412066878978487
+    second: sherlork assistent_31
+  - first:
+      213: 8024528718269115580
+    second: sherlork assistent_32
+  - first:
+      213: -6890499290713077132
+    second: sherlork assistent_33
+  - first:
+      213: -2658068902204889158
+    second: sherlork assistent_34
+  - first:
+      213: -2178206581169656552
+    second: sherlork assistent_35
+  - first:
+      213: 2014467005969013410
+    second: sherlork assistent_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sherlork assistent_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 131
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2de260d4b6180e0800000000000000
+      internalID: -2269414758657633629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb4fff49c085a090800000000000000
+      internalID: -8023865558971757641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34b04a772e051b0800000000000000
+      internalID: -5669782927378267176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 131
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb64c382b9e0860800000000000000
+      internalID: 7498101026730720450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 126
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b2fe2ea478847b0800000000000000
+      internalID: -5239789410740917411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d610515ab1217e0800000000000000
+      internalID: -1796342905531437790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35527dc4d1da430800000000000000
+      internalID: 3795722276807463882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03b7988dd21b150800000000000000
+      internalID: 5886536595992686835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756703d3149ffcfa0800000000000000
+      internalID: -5778125738298280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 131
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860f542475c17420800000000000000
+      internalID: 2626097160350795397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 100
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cebd756c34f240800000000000000
+      internalID: 4824547507419660386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4376830285625ea0800000000000000
+      internalID: -5885530153940520115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5a417ec53bd4c0800000000000000
+      internalID: -4261753461595808698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 100
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1d3bbbf1878b70800000000000000
+      internalID: 8901226106699194193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 101
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158918c7bb556de10800000000000000
+      internalID: 2222057729890031697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc736e6d07236c80800000000000000
+      internalID: -8330771947065213758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e518bf794dd7080800000000000000
+      internalID: -9187953915541234032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1f1e9a1f732c4c0800000000000000
+      internalID: -4268787985717005880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 100
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c630464457e6fc0800000000000000
+      internalID: -3499730923824124834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501d408333d7d7530800000000000000
+      internalID: 3854374515035656453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8de79d62360d90800000000000000
+      internalID: -7131957513612849372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad5801ba9c8d1a0800000000000000
+      internalID: -6784451102079853972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6138bae3dac1aba0800000000000000
+      internalID: -6079355010448608915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812745753ad11d430800000000000000
+      internalID: 3805855747486806552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ca18cf5fa757d0800000000000000
+      internalID: -2929680206667266372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f70ac3053618790800000000000000
+      internalID: -7529627905721073854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73281cd160a16850800000000000000
+      internalID: 6368547690243433343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edee89a04da0c950800000000000000
+      internalID: 6467359558138260965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 36
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378811283c4c89e60800000000000000
+      internalID: 7969335884611946611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858d223c1d555850800000000000000
+      internalID: 6365096024040375688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0561c929f9168e50800000000000000
+      internalID: 6811160044382545165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 36
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f86f8b476a2b20800000000000000
+      internalID: 3110412066878978487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 40
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce95e7a5adc5f60800000000000000
+      internalID: 8024528718269115580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a47fb07670060a0800000000000000
+      internalID: -6890499290713077132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 29
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a09f9a64ac1bd0800000000000000
+      internalID: -2658068902204889158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de6f1b7a475c1e0800000000000000
+      internalID: -2178206581169656552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sherlork assistent_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 29
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa178e9113d4fb10800000000000000
+      internalID: 2014467005969013410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
