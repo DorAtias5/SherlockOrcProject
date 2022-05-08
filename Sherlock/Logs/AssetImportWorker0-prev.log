@@ -15,11 +15,11 @@ C:/Users/Dor/Desktop/Changes/Sherlock
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61320
+61533
 Successfully changed project path to: C:/Users/Dor/Desktop/Changes/Sherlock
 C:/Users/Dor/Desktop/Changes/Sherlock
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 91.86 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 89.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.10f1 (297d780c91bc)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
@@ -35,159 +35,75 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003325 seconds.
+Registered in 0.002177 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 84.58 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 80.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.059 seconds
+- Completed reload, in  0.983 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006177 seconds.
+Registered in 0.006470 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 81.27 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 85.64 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.131 seconds
+- Completed reload, in  1.092 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2437 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 108.5 MB.
 System memory in use after: 108.7 MB.
 
 Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2882.
-Total: 2.178500 ms (FindLiveObjects: 0.265000 ms CreateObjectMapping: 0.124800 ms MarkObjects: 1.723000 ms  DeleteObjects: 0.064700 ms)
+Total: 2.135800 ms (FindLiveObjects: 0.212300 ms CreateObjectMapping: 0.096100 ms MarkObjects: 1.764200 ms  DeleteObjects: 0.062400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/ArtNsprites/Sherlock/Daily/sherlork.png
-  artifactKey: Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ArtNsprites/Sherlock/Daily/sherlork.png using Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1366ffadce405bba991bfa1a24c30e3a') in 0.164651 seconds
-  Import took 0.168394 seconds .
+  path: Assets/Animations/Serlock/Attack/attackLeft.anim
+  artifactKey: Guid(327add28277624d4fb5e29d17f3fbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Serlock/Attack/attackLeft.anim using Guid(327add28277624d4fb5e29d17f3fbddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '164c14f5fd6f7397cd727fa63b07d4f4') in 0.042875 seconds
+  Import took 0.046299 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 541.767111 seconds.
-  path: Assets/ArtNsprites/Sherlock/Daily/sherlork.png
-  artifactKey: Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ArtNsprites/Sherlock/Daily/sherlork.png using Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d9115a5c0ac73c3eabb3db97aea846') in 0.054197 seconds
-  Import took 0.059559 seconds .
+  Time since last request: 0.000403 seconds.
+  path: Assets/Animations/Serlock/Attack/attackRight.anim
+  artifactKey: Guid(10b91a1e600cdd746b8c242a56b5f794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Serlock/Attack/attackRight.anim using Guid(10b91a1e600cdd746b8c242a56b5f794) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0284322d6f9d6f9494aff60569ec893b') in 0.007806 seconds
+  Import took 0.011207 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.032386 seconds.
-  path: Assets/ArtNsprites/Sherlock/Daily/sherlork.png
-  artifactKey: Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ArtNsprites/Sherlock/Daily/sherlork.png using Guid(9818fbfd8db1bec40b6de0e6f03d6b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d9115a5c0ac73c3eabb3db97aea846') in 0.077715 seconds
-  Import took 0.082746 seconds .
+  Time since last request: 0.000257 seconds.
+  path: Assets/Animations/Serlock/Attack/attackUp.anim
+  artifactKey: Guid(e1aa0704655d5274a82a2393cf6555f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Serlock/Attack/attackUp.anim using Guid(e1aa0704655d5274a82a2393cf6555f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43fd5cb9a7efe72e629ef143e62672ee') in 0.007224 seconds
+  Import took 0.011079 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006058 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.992 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.6 MB.
-System memory in use after: 109.9 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2913.
-Total: 2.163600 ms (FindLiveObjects: 0.221700 ms CreateObjectMapping: 0.091400 ms MarkObjects: 1.826600 ms  DeleteObjects: 0.022900 ms)
+Received Import Request.
+  Time since last request: 16.902017 seconds.
+  path: Assets/Animations/Serlock/Attack/attackDown.anim
+  artifactKey: Guid(31ad9a26c53ceac4aa1eab8acfaa16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Serlock/Attack/attackDown.anim using Guid(31ad9a26c53ceac4aa1eab8acfaa16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbad1d3a6626bd8b94a631638f5f564f') in 0.006293 seconds
+  Import took 0.009737 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006187 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.122 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.7 MB.
-System memory in use after: 109.9 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2917.
-Total: 2.118200 ms (FindLiveObjects: 0.221500 ms CreateObjectMapping: 0.100500 ms MarkObjects: 1.775800 ms  DeleteObjects: 0.019400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005908 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.041 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.7 MB.
-System memory in use after: 109.9 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2921.
-Total: 2.101800 ms (FindLiveObjects: 0.245900 ms CreateObjectMapping: 0.095900 ms MarkObjects: 1.739000 ms  DeleteObjects: 0.019900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005843 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.026 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.7 MB.
-System memory in use after: 110.0 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2925.
-Total: 2.281800 ms (FindLiveObjects: 0.222300 ms CreateObjectMapping: 0.098900 ms MarkObjects: 1.938800 ms  DeleteObjects: 0.020500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005867 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.910 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2412 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.6 MB.
-System memory in use after: 109.9 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2929.
-Total: 2.180600 ms (FindLiveObjects: 0.216600 ms CreateObjectMapping: 0.094000 ms MarkObjects: 1.848200 ms  DeleteObjects: 0.020900 ms)
+Received Import Request.
+  Time since last request: 0.005028 seconds.
+  path: Assets/Animations/Serlock/Attack/attackDown.anim
+  artifactKey: Guid(31ad9a26c53ceac4aa1eab8acfaa16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Serlock/Attack/attackDown.anim using Guid(31ad9a26c53ceac4aa1eab8acfaa16bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbad1d3a6626bd8b94a631638f5f564f') in 0.002963 seconds
+  Import took 0.007178 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
