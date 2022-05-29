@@ -374,7 +374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mySaver: {fileID: 1896104269}
-  sceneToLoad: CellerCutsecene
+  sceneToLoad: IntroHouseCeller
 --- !u!1 &632911533
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: fc94e932e3977d44eae83cf060d8e858
   - enabled: 0
-    path: Assets/Scenes/CutSences/CellerCutsecene.unity
-    guid: 5a314a48e7114dd48a13f5bd98469641
-  - enabled: 1
-    path: Assets/Scenes/OverWorld/IntroHouse.unity
-    guid: dc0d1373b8d45ad49bcf7b53ef600d30
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/OverWorld/IntroHouseCeller.unity
     guid: 2cef3d3ede579aa46bde4171d26f41c3
+  - enabled: 1
+    path: Assets/Scenes/OverWorld/IntroHouse.unity
+    guid: dc0d1373b8d45ad49bcf7b53ef600d30
   - enabled: 1
     path: Assets/Scenes/OverWorld/OverWorld.unity
     guid: 2cda990e2423bbf4892e6590ba056729
